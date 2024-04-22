@@ -1,3 +1,4 @@
+#%%
 # -------------------
 # Import packages 
 # -------------------
@@ -9,8 +10,8 @@ import Functions_wpv as functions
 # -------------------
 # Directory paths
 # -------------------
-DIRECTORY_PDF = "C:/Users/LukaHoebenVFTalentAC/WPV_Trainees"
-DIRECTORY_EXCEL = "C:/Users/LukaHoebenVFTalentAc/OneDrive - Veneficus B.V/Documenten"
+DIRECTORY_PDF = "C:/Users/GijsVisserVeneficus/OneDrive - Veneficus B.V/Veneficus/WPV_project"
+DIRECTORY_EXCEL = "C:/Users/GijsVisserVeneficus/OneDrive - Veneficus B.V/Veneficus/WPV_project"
 DIRECTORY_OUTPUT_PRIVATE = "../Output_private"
 DIRECTORY_OUTPUT = "../Output"
 
@@ -55,3 +56,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# %%

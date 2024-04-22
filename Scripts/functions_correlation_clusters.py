@@ -514,7 +514,7 @@ def calculate_t_test_outliers(row):
     # Calculate the difference in correlation
     diff_cor = cor_before - cor_after
     # Sample size
-    n = 41 
+    n = 46
 
     # Calculate standard error of the difference
     se_diff = ((1/n)+(1/ n)) ** 0.5
@@ -585,7 +585,7 @@ def calculate_student_t(row):
     engineer_corr = row['Engineer']
 
     # Sample sizes for analyst and engineer groups
-    n_analist = 26
+    n_analist = 31
     n_engineer = 10
 
     # Calculate total sample size
