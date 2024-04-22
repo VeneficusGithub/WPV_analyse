@@ -1,0 +1,87 @@
+
+{
+    "file_paths": {
+      "csv_headgroup": "../Output/Headgroup.csv",
+      "csv_subgroup": "../Output/Subgroup.csv",
+      "csv_competencies": "../Output/competencies.csv",
+      "csv_info": "../Output/info_job.csv"
+      
+    },
+
+    "correlation_base": {
+        "csv_sub_cor_file": "../Output/Correlation/sub_correlation_total.csv",
+        "pdf_path_hoofd": "../Output/Correlation/heatmap_plots_hoofdkenmerken.pdf",
+        "csv_sub_cor_filtered": "../Output/Correlation/sub_filtered_cor_total.csv",
+        "pdf_path_sub": "../Output/Correlation/heatmap_plots.pdf",
+        "csv_comp_cor_file": "../Output/Correlation/comp_correlation_total.csv",
+        "csv_comp_cor_filtered": "../Output/Correlation/comp_filtered_cor_total.csv",
+        "pdf_path_comp": "../Output/Correlation/heatmap_plots_competencies.pdf",
+        "csv_pivot_competencies": "../Output/Correlation/pivot_competencies.csv",
+        "csv_pivot_subkenmerken": "../Output/Correlation/pivot_subkenmerken.csv"
+        
+    },
+  
+    "correlation_per_direction": {
+      "csv_all_richtingen_comp": "../Output/Correlation/alle_richtingen_correlation_comp.csv",
+      "csv_comp_cor_filtered_richting": "../Output/Correlation/filtered_alle_richtingen_correlation_comp.csv",
+      "pdf_richting_comp": "../Output/Correlation/heatmap_richtingen_comp.pdf",
+      "csv_all_richtingen": "../Output/Correlation/alle_richtingen_correlation_sub.csv",
+      "pdf_richting_sub": "../Output/Correlation/heatmap_richtingen.pdf",
+      "csv_sub_cor_filtered_richting": "../Output/Correlation/filtered_alle_richtingen_correlation_sub.csv"
+    },
+  
+    "correlation_difference": {
+      "csv_correlation_richting": "../Output/Correlation/correlation_difference.csv",
+      "csv_correlation_richting_filtered": "../Output/Correlation/P_values_0.05_correlation_difference.csv",
+      "csv_correlation_richting_comp": "../Output/Correlation/correlation_difference_comp.csv",
+      "csv_correlation_richting_filtered_comp": "../Output/Correlation/P_values_0.05_correlation_difference_comp.csv"
+    },
+  
+    "outliers": {
+      "csv_filtered_outliers_subkenmerken": "../Output/Correlation/filtered_subkenmerken_outliers.csv",
+      "csv_filtered_outliers_comp": "../Output/Correlation/filtered_comp_outliers.csv",
+      "csv_filtered_outliers_subkenmerken_Analist": "../Output/Correlation/filtered_subkenmerken_outliers_Analist.csv",
+      "csv_filtered_outliers_subkenmerken_Engineer": "../Output/Correlation/filtered_subkenmerken_outliers_Engineer.csv",
+      "csv_filtered_outliers_comp_Analist": "../Output/Correlation/filtered_comp_outliers_Analist.csv",
+      "csv_filtered_outliers_comp_Engineer": "../Output/Correlation/filtered_comp_outliers_Engineer.csv"
+    },
+  
+    "correlation_without_outliers": {
+      "csv_correlation_without_outliers_subkenmerken": "../Output/Correlation/Correlation_without_Outliers_subkenmerken.csv",
+      "pdf_outliers_sub": "../Output/Correlation/heatmap_zonder_outliers.pdf",
+      "csv_correlation_without_outliers_subkenmerken_A": "../Output/Correlation/Correlation_without_Outliers_subkenmerken_Analist.csv",
+      "csv_correlation_without_outliers_subkenmerken_E": "../Output/Correlation/Correlation_without_Outliers_subkenmerken_Engineer.csv",
+      "pdf_outliers_sub_A": "../Output/Correlation/heatmap_zonder_outliers_analist.pdf",
+      "pdf_outliers_sub_E": "../Output/Correlation/heatmap_zonder_outliers_engineer.pdf",
+      "csv_correlation_without_outliers_comp": "../Output/Correlation/Correlation_without_Outliers_comp.csv",
+      "pdf_outliers_comp": "../Output/Correlation/heatmap_zonder_outliers_comp.pdf",
+      "csv_correlation_without_outliers_comp_A": "../Output/Correlation/Correlation_without_Outliers_comp_Analist.csv",
+      "csv_correlation_without_outliers_comp_E": "../Output/Correlation/Correlation_without_Outliers_comp_Engineer.csv",
+      "pdf_outliers_comp_A": "../Output/Correlation/heatmap_zonder_outliers_comp_analist.pdf",
+      "pdf_outliers_comp_E": "../Output/Correlation/heatmap_zonder_outliers_comp_engineer.pdf"
+    },
+  
+    "correlation_difference_outliers": {
+      "csv_correlation_richting_without_outliers": "../Output/Correlation/correlation_difference_wo_outliers.csv",
+      "csv_correlation_richting_without_outliers_comp": "../Output/Correlation/correlation_difference_wo_outliers_comp.csv",
+      "csv_correlation_difference_outlier": "../Output/Correlation/correlation_comparison_outliers.csv",
+      "csv_correlation_difference_outlier_comp": "../Output/Correlation/correlation_comparison_outliers_comp.csv"
+    },
+
+    "clusters": {
+      "pdf_amount_clusters": "../Output/Clusters/amount_of_clusters.pdf",
+      "pdf_clusters_total": "../Output/Clusters/heatmap_clusters_total.pdf",
+      "pdf_amount_clusters_kenmerken": "../Output/Clusters/silhouette_scores_kenmerken.pdf",
+      "pdf_amount_clusters_competencies": "../Output/Clusters/silhouette_scores_competencies.pdf",
+      "csv_clusters_kenmerken": "../Output/Clusters/clusters_kenmerken_2_groepen.csv",
+      "csv_clusters_competencies": "../Output/Clusters/clusters_competencies_2_groepen.csv",
+      "pdf_clusters_kenmerken": "../Output/Clusters/heatmap_clusters_kenmerken.pdf",
+      "pdf_clusters_competencies": "../Output/Clusters/heatmap_clusters_competencies.pdf",
+      "csv_clusters_kenmerken_structuur": "../Output/Clusters/clusters_kenmerken_structuur.csv",
+      "csv_clusters_competencies_organisatiegerichtheid": "../Output/Clusters/clusters_competencies_organisatiegerichtheid.csv",
+      "pdf_clusters_kenmerken_structuur": "../Output/Clusters/heatmap_clusters_structuur.pdf",
+      "pdf_clusters_competencies_organisatiegerichtheid": "../Output/Clusters/heatmap_clusters_organisatiegerichtheid.pdf"
+    }
+  }
+ 
+  

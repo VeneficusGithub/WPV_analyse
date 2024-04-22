@@ -1,0 +1,813 @@
+,Group 1,Group 2,Correlation
+0,Aansturen van groepen,Aansturen van individuen,0.07285057743780396
+1,Aansturen van groepen,Ambitie,0.4955639512416117
+2,Aansturen van groepen,Assertiviteit,0.5422131592849857
+3,Aansturen van groepen,Besluitvaardigheid,0.5371776590615164
+4,Aansturen van groepen,Coachen van medewerkers,-0.26028588725719076
+5,Aansturen van groepen,Delegeren,0.3666425493393294
+6,Aansturen van groepen,Doorzettingsvermogen,0.4241995952730561
+7,Aansturen van groepen,Flexibiliteit,0.17604477960137124
+8,Aansturen van groepen,Initiatief,0.17397524912036144
+9,Aansturen van groepen,Inzet,0.3337144044246022
+10,Aansturen van groepen,Klantoriëntatie,-0.37638361737671255
+11,Aansturen van groepen,Kwaliteitsgerichtheid,0.37458226698811703
+12,Aansturen van groepen,Leerbereidheid,-0.2786563847874606
+13,Aansturen van groepen,Nauwkeurigheid,0.3866779811115839
+14,Aansturen van groepen,Onderhandelen,0.40463762309818707
+15,Aansturen van groepen,Ondernemerschap,0.39641983728557745
+16,Aansturen van groepen,Optreden,0.35810500415882324
+17,Aansturen van groepen,Organisatiesensitiviteit,0.14256000470214214
+18,Aansturen van groepen,Overtuigingskracht,0.289339374142565
+19,Aansturen van groepen,Plannen en organiseren,0.7263028988191038
+20,Aansturen van groepen,Relatiebeheer,-0.03708380483887973
+21,Aansturen van groepen,Resultaatgerichtheid,0.40672068194008076
+22,Aansturen van groepen,Samenwerking,0.15945200968195397
+23,Aansturen van groepen,Sensitiviteit,-0.38977036699748013
+24,Aansturen van groepen,Sociabiliteit,-0.3401499245193702
+25,Aansturen van groepen,Stressbestendigheid,0.09427051800243001
+26,Aansturen van groepen,Voortgangscontrole,0.7339367298143139
+27,Aansturen van groepen,Zelfstandigheid,0.6241331874711316
+28,Aansturen van individuen,Ambitie,0.5964372485900193
+29,Aansturen van individuen,Assertiviteit,0.43198205356373703
+30,Aansturen van individuen,Besluitvaardigheid,0.5816241356162168
+31,Aansturen van individuen,Coachen van medewerkers,0.7343506691774404
+32,Aansturen van individuen,Delegeren,0.7114806525606544
+33,Aansturen van individuen,Doorzettingsvermogen,0.7878896645173749
+34,Aansturen van individuen,Flexibiliteit,0.7463499109953097
+35,Aansturen van individuen,Initiatief,0.6066172390417912
+36,Aansturen van individuen,Inzet,0.8619470661832744
+37,Aansturen van individuen,Klantoriëntatie,0.8119796225911883
+38,Aansturen van individuen,Kwaliteitsgerichtheid,-0.4429573510187346
+39,Aansturen van individuen,Leerbereidheid,0.6640358075086298
+40,Aansturen van individuen,Nauwkeurigheid,-0.4169837430391997
+41,Aansturen van individuen,Onderhandelen,0.7914558944451274
+42,Aansturen van individuen,Ondernemerschap,0.5806418593274981
+43,Aansturen van individuen,Optreden,0.4723433046609841
+44,Aansturen van individuen,Organisatiesensitiviteit,0.7151703268251364
+45,Aansturen van individuen,Overtuigingskracht,0.5959231677187665
+46,Aansturen van individuen,Plannen en organiseren,0.1450760339904036
+47,Aansturen van individuen,Relatiebeheer,0.34152018757540487
+48,Aansturen van individuen,Resultaatgerichtheid,0.6214999281015902
+49,Aansturen van individuen,Samenwerking,0.3942745114772004
+50,Aansturen van individuen,Sensitiviteit,0.6652499587278038
+51,Aansturen van individuen,Sociabiliteit,0.8317301222312073
+52,Aansturen van individuen,Stressbestendigheid,0.6577701859533064
+53,Aansturen van individuen,Voortgangscontrole,0.44464043117839513
+54,Aansturen van individuen,Zelfstandigheid,0.6151787439633749
+55,Ambitie,Assertiviteit,0.4090030066728863
+56,Ambitie,Besluitvaardigheid,0.5035157955697327
+57,Ambitie,Coachen van medewerkers,0.23390063989259996
+58,Ambitie,Delegeren,0.5729035752419137
+59,Ambitie,Doorzettingsvermogen,0.41595618237375104
+60,Ambitie,Flexibiliteit,0.5109117763629291
+61,Ambitie,Initiatief,0.519667570217617
+62,Ambitie,Inzet,0.40084908435688044
+63,Ambitie,Klantoriëntatie,-0.1457033781035394
+64,Ambitie,Kwaliteitsgerichtheid,-0.31943169131576293
+65,Ambitie,Leerbereidheid,0.3745347873831836
+66,Ambitie,Nauwkeurigheid,-0.33729577451055515
+67,Ambitie,Onderhandelen,0.5942719044061867
+68,Ambitie,Ondernemerschap,0.786110442253429
+69,Ambitie,Optreden,0.7614103684317931
+70,Ambitie,Organisatiesensitiviteit,0.2532831694601217
+71,Ambitie,Overtuigingskracht,0.7467402774375766
+72,Ambitie,Plannen en organiseren,0.14479384370715112
+73,Ambitie,Relatiebeheer,0.19606802924680886
+74,Ambitie,Resultaatgerichtheid,0.878674051993309
+75,Ambitie,Samenwerking,-0.30494071920898896
+76,Ambitie,Sensitiviteit,-0.0428012239938652
+77,Ambitie,Sociabiliteit,-0.1048791932533261
+78,Ambitie,Stressbestendigheid,-0.13477493677749727
+79,Ambitie,Voortgangscontrole,0.19367789229764976
+80,Ambitie,Zelfstandigheid,0.3870611159293505
+81,Assertiviteit,Besluitvaardigheid,0.8817307714842992
+82,Assertiviteit,Coachen van medewerkers,-0.20523655569004967
+83,Assertiviteit,Delegeren,0.6331089578813693
+84,Assertiviteit,Doorzettingsvermogen,0.46083321146646233
+85,Assertiviteit,Flexibiliteit,-0.14805889015467438
+86,Assertiviteit,Initiatief,0.23957705560439319
+87,Assertiviteit,Inzet,0.42690114544797375
+88,Assertiviteit,Klantoriëntatie,-0.19091267345159008
+89,Assertiviteit,Kwaliteitsgerichtheid,-0.19128292461501628
+90,Assertiviteit,Leerbereidheid,0.622491015517596
+91,Assertiviteit,Nauwkeurigheid,-0.1103873915478999
+92,Assertiviteit,Onderhandelen,0.6440353181099522
+93,Assertiviteit,Ondernemerschap,0.5435560221109892
+94,Assertiviteit,Optreden,0.8323031705662749
+95,Assertiviteit,Organisatiesensitiviteit,-0.4219307570797097
+96,Assertiviteit,Overtuigingskracht,0.7671129944235141
+97,Assertiviteit,Plannen en organiseren,0.3554514494746666
+98,Assertiviteit,Relatiebeheer,0.3890062476305831
+99,Assertiviteit,Resultaatgerichtheid,0.42925293878199466
+100,Assertiviteit,Samenwerking,-0.4069319230681345
+101,Assertiviteit,Sensitiviteit,-0.38250672778605954
+102,Assertiviteit,Sociabiliteit,-0.3930476152851998
+103,Assertiviteit,Stressbestendigheid,0.6492020448544078
+104,Assertiviteit,Voortgangscontrole,0.22334678847427863
+105,Assertiviteit,Zelfstandigheid,0.9050200094435161
+106,Besluitvaardigheid,Coachen van medewerkers,-0.07009246881347804
+107,Besluitvaardigheid,Delegeren,0.6937643340521771
+108,Besluitvaardigheid,Doorzettingsvermogen,0.23785620705478847
+109,Besluitvaardigheid,Flexibiliteit,-0.17322796263924664
+110,Besluitvaardigheid,Initiatief,0.19045269073526175
+111,Besluitvaardigheid,Inzet,0.18490581424421865
+112,Besluitvaardigheid,Klantoriëntatie,-0.19474131008944104
+113,Besluitvaardigheid,Kwaliteitsgerichtheid,-0.24112861950711842
+114,Besluitvaardigheid,Leerbereidheid,0.23289318640692663
+115,Besluitvaardigheid,Nauwkeurigheid,-0.14641163395991683
+116,Besluitvaardigheid,Onderhandelen,0.48393373641230386
+117,Besluitvaardigheid,Ondernemerschap,0.49614363004731343
+118,Besluitvaardigheid,Optreden,0.46783454963240256
+119,Besluitvaardigheid,Organisatiesensitiviteit,-0.24857342139084607
+120,Besluitvaardigheid,Overtuigingskracht,0.6774704587541868
+121,Besluitvaardigheid,Plannen en organiseren,-0.49602761250427685
+122,Besluitvaardigheid,Relatiebeheer,0.3506059539302739
+123,Besluitvaardigheid,Resultaatgerichtheid,0.4534796327659941
+124,Besluitvaardigheid,Samenwerking,-0.22971041060010733
+125,Besluitvaardigheid,Sensitiviteit,-0.2871058094124459
+126,Besluitvaardigheid,Sociabiliteit,-0.13859136889113588
+127,Besluitvaardigheid,Stressbestendigheid,0.40301710487214326
+128,Besluitvaardigheid,Voortgangscontrole,-0.19510960575751882
+129,Besluitvaardigheid,Zelfstandigheid,0.603508353095213
+130,Coachen van medewerkers,Delegeren,0.7611941979946315
+131,Coachen van medewerkers,Doorzettingsvermogen,0.487827921979707
+132,Coachen van medewerkers,Flexibiliteit,0.7877731125251491
+133,Coachen van medewerkers,Initiatief,0.602416174499872
+134,Coachen van medewerkers,Inzet,0.5882529775314391
+135,Coachen van medewerkers,Klantoriëntatie,0.9289770962435195
+136,Coachen van medewerkers,Kwaliteitsgerichtheid,0.5416673222037062
+137,Coachen van medewerkers,Leerbereidheid,0.6382604261776643
+138,Coachen van medewerkers,Nauwkeurigheid,0.45496253800009945
+139,Coachen van medewerkers,Onderhandelen,0.456246767877459
+140,Coachen van medewerkers,Ondernemerschap,0.3188705473935018
+141,Coachen van medewerkers,Optreden,0.4486032729693732
+142,Coachen van medewerkers,Organisatiesensitiviteit,0.8768839903227597
+143,Coachen van medewerkers,Overtuigingskracht,0.4006907822657134
+144,Coachen van medewerkers,Plannen en organiseren,0.3777210253571565
+145,Coachen van medewerkers,Relatiebeheer,0.6975261371117628
+146,Coachen van medewerkers,Resultaatgerichtheid,0.3882272951556298
+147,Coachen van medewerkers,Samenwerking,0.8626931695908581
+148,Coachen van medewerkers,Sensitiviteit,0.8828759763505937
+149,Coachen van medewerkers,Sociabiliteit,0.9796833185245571
+150,Coachen van medewerkers,Stressbestendigheid,0.7397308931792275
+151,Coachen van medewerkers,Voortgangscontrole,0.5323864573107787
+152,Coachen van medewerkers,Zelfstandigheid,0.19887767715909913
+153,Delegeren,Doorzettingsvermogen,0.6993464834110454
+154,Delegeren,Flexibiliteit,0.802041420122245
+155,Delegeren,Initiatief,0.8572862372808095
+156,Delegeren,Inzet,0.8199520734304836
+157,Delegeren,Klantoriëntatie,0.5968544555356048
+158,Delegeren,Kwaliteitsgerichtheid,0.21782298739282893
+159,Delegeren,Leerbereidheid,0.2758963977887311
+160,Delegeren,Nauwkeurigheid,0.18778695298626083
+161,Delegeren,Onderhandelen,0.8110310397089033
+162,Delegeren,Ondernemerschap,0.7249738456433937
+163,Delegeren,Optreden,0.938680681590368
+164,Delegeren,Organisatiesensitiviteit,0.5159017416974033
+165,Delegeren,Overtuigingskracht,0.6885621629665056
+166,Delegeren,Plannen en organiseren,0.8727736199040413
+167,Delegeren,Relatiebeheer,0.8964310534555257
+168,Delegeren,Resultaatgerichtheid,0.7878661879631956
+169,Delegeren,Samenwerking,0.4990151782438251
+170,Delegeren,Sensitiviteit,0.5500674538200705
+171,Delegeren,Sociabiliteit,0.6970683160426223
+172,Delegeren,Stressbestendigheid,0.5726086895394082
+173,Delegeren,Voortgangscontrole,0.7508795674566145
+174,Delegeren,Zelfstandigheid,0.5479228915936052
+175,Doorzettingsvermogen,Flexibiliteit,0.633476076424565
+176,Doorzettingsvermogen,Initiatief,0.8595471621693019
+177,Doorzettingsvermogen,Inzet,0.9701504841130154
+178,Doorzettingsvermogen,Klantoriëntatie,0.6795355333558616
+179,Doorzettingsvermogen,Kwaliteitsgerichtheid,0.1419112322938511
+180,Doorzettingsvermogen,Leerbereidheid,0.5911393598392404
+181,Doorzettingsvermogen,Nauwkeurigheid,0.1351044494042604
+182,Doorzettingsvermogen,Onderhandelen,0.8353852177995197
+183,Doorzettingsvermogen,Ondernemerschap,0.7041115760554679
+184,Doorzettingsvermogen,Optreden,0.8674299830860249
+185,Doorzettingsvermogen,Organisatiesensitiviteit,0.3399761207394548
+186,Doorzettingsvermogen,Overtuigingskracht,0.410629487010776
+187,Doorzettingsvermogen,Plannen en organiseren,0.5928867326796929
+188,Doorzettingsvermogen,Relatiebeheer,0.5385914885984294
+189,Doorzettingsvermogen,Resultaatgerichtheid,0.5479334459407149
+190,Doorzettingsvermogen,Samenwerking,0.48842958642926204
+191,Doorzettingsvermogen,Sensitiviteit,0.5386349744811697
+192,Doorzettingsvermogen,Sociabiliteit,0.6882549153313615
+193,Doorzettingsvermogen,Stressbestendigheid,0.6866220890913582
+194,Doorzettingsvermogen,Voortgangscontrole,0.7464546111885391
+195,Doorzettingsvermogen,Zelfstandigheid,0.7591713955128546
+196,Flexibiliteit,Initiatief,0.7425955526032928
+197,Flexibiliteit,Inzet,0.6957449647956147
+198,Flexibiliteit,Klantoriëntatie,0.729253459186401
+199,Flexibiliteit,Kwaliteitsgerichtheid,0.16680246631394965
+200,Flexibiliteit,Leerbereidheid,0.8045953520197118
+201,Flexibiliteit,Nauwkeurigheid,0.10028162023372056
+202,Flexibiliteit,Onderhandelen,0.8198209631007112
+203,Flexibiliteit,Ondernemerschap,0.6703957871619791
+204,Flexibiliteit,Optreden,0.8856852875023501
+205,Flexibiliteit,Organisatiesensitiviteit,0.4815862088721917
+206,Flexibiliteit,Overtuigingskracht,0.9147966455320615
+207,Flexibiliteit,Plannen en organiseren,0.6360793587849798
+208,Flexibiliteit,Relatiebeheer,0.646784438852044
+209,Flexibiliteit,Resultaatgerichtheid,0.8472487363533856
+210,Flexibiliteit,Samenwerking,0.5959519725816974
+211,Flexibiliteit,Sensitiviteit,0.7183948587981767
+212,Flexibiliteit,Sociabiliteit,0.7629881868162182
+213,Flexibiliteit,Stressbestendigheid,-0.019186456516218395
+214,Flexibiliteit,Voortgangscontrole,0.5891749831000741
+215,Flexibiliteit,Zelfstandigheid,-0.26525267951676385
+216,Initiatief,Inzet,0.9164468636323176
+217,Initiatief,Klantoriëntatie,0.7320303961954396
+218,Initiatief,Kwaliteitsgerichtheid,0.15958200383863427
+219,Initiatief,Leerbereidheid,0.6423230689775558
+220,Initiatief,Nauwkeurigheid,0.34739622868721237
+221,Initiatief,Onderhandelen,0.8159272376250027
+222,Initiatief,Ondernemerschap,0.8570534065654111
+223,Initiatief,Optreden,0.9608008707898005
+224,Initiatief,Organisatiesensitiviteit,0.40235578118125315
+225,Initiatief,Overtuigingskracht,0.6985042439516388
+226,Initiatief,Plannen en organiseren,0.6716412880689494
+227,Initiatief,Relatiebeheer,0.9426471255166783
+228,Initiatief,Resultaatgerichtheid,0.801357835158831
+229,Initiatief,Samenwerking,0.6751086495967512
+230,Initiatief,Sensitiviteit,0.3945726025345274
+231,Initiatief,Sociabiliteit,0.8410730016957303
+232,Initiatief,Stressbestendigheid,0.2261372692170124
+233,Initiatief,Voortgangscontrole,0.8900892868874507
+234,Initiatief,Zelfstandigheid,0.23042763832880936
+235,Inzet,Klantoriëntatie,0.7201297285329956
+236,Inzet,Kwaliteitsgerichtheid,0.20910430344516942
+237,Inzet,Leerbereidheid,0.5491518690356552
+238,Inzet,Nauwkeurigheid,0.19784424384492072
+239,Inzet,Onderhandelen,0.8525103247024083
+240,Inzet,Ondernemerschap,0.7646149665405554
+241,Inzet,Optreden,0.8940197638997972
+242,Inzet,Organisatiesensitiviteit,0.5301357031911876
+243,Inzet,Overtuigingskracht,0.47894396498210695
+244,Inzet,Plannen en organiseren,0.6592990338488346
+245,Inzet,Relatiebeheer,0.7901042007191493
+246,Inzet,Resultaatgerichtheid,0.6371962981832272
+247,Inzet,Samenwerking,0.5763452967697045
+248,Inzet,Sensitiviteit,0.5835495202773165
+249,Inzet,Sociabiliteit,0.7649995598225301
+250,Inzet,Stressbestendigheid,0.5863488387938292
+251,Inzet,Voortgangscontrole,0.8121013070990827
+252,Inzet,Zelfstandigheid,0.6927131250152291
+253,Klantoriëntatie,Kwaliteitsgerichtheid,0.3654292267011142
+254,Klantoriëntatie,Leerbereidheid,0.8033939264130371
+255,Klantoriëntatie,Nauwkeurigheid,0.3062816551749984
+256,Klantoriëntatie,Onderhandelen,0.5517076657790161
+257,Klantoriëntatie,Ondernemerschap,0.16562352602053812
+258,Klantoriëntatie,Optreden,0.2943704623150396
+259,Klantoriëntatie,Organisatiesensitiviteit,0.8475818285385204
+260,Klantoriëntatie,Overtuigingskracht,-0.007384803721360347
+261,Klantoriëntatie,Plannen en organiseren,0.55586003672331
+262,Klantoriëntatie,Relatiebeheer,0.7314174160825543
+263,Klantoriëntatie,Resultaatgerichtheid,0.05931093214855149
+264,Klantoriëntatie,Samenwerking,0.9140934462787595
+265,Klantoriëntatie,Sensitiviteit,0.9770972923623686
+266,Klantoriëntatie,Sociabiliteit,0.9872535033730577
+267,Klantoriëntatie,Stressbestendigheid,0.8569575565023595
+268,Klantoriëntatie,Voortgangscontrole,0.5512133687525935
+269,Klantoriëntatie,Zelfstandigheid,-0.017779687436046642
+270,Kwaliteitsgerichtheid,Leerbereidheid,-0.16361793621614762
+271,Kwaliteitsgerichtheid,Nauwkeurigheid,0.9802044690011353
+272,Kwaliteitsgerichtheid,Onderhandelen,-0.12631101644863027
+273,Kwaliteitsgerichtheid,Ondernemerschap,-0.02980220567239883
+274,Kwaliteitsgerichtheid,Optreden,0.3117939728885749
+275,Kwaliteitsgerichtheid,Organisatiesensitiviteit,0.356870900641013
+276,Kwaliteitsgerichtheid,Overtuigingskracht,-0.5548402147286263
+277,Kwaliteitsgerichtheid,Plannen en organiseren,0.8930832623671157
+278,Kwaliteitsgerichtheid,Relatiebeheer,0.6885374013659296
+279,Kwaliteitsgerichtheid,Resultaatgerichtheid,0.023686320420056677
+280,Kwaliteitsgerichtheid,Samenwerking,0.6160588279485898
+281,Kwaliteitsgerichtheid,Sensitiviteit,0.35246452022946007
+282,Kwaliteitsgerichtheid,Sociabiliteit,0.6590452746754405
+283,Kwaliteitsgerichtheid,Stressbestendigheid,-0.35441190541131334
+284,Kwaliteitsgerichtheid,Voortgangscontrole,0.7549578023691325
+285,Kwaliteitsgerichtheid,Zelfstandigheid,-0.5078968722032711
+286,Leerbereidheid,Nauwkeurigheid,-0.20284174438744812
+287,Leerbereidheid,Onderhandelen,0.9016398971588782
+288,Leerbereidheid,Ondernemerschap,0.5051980650803941
+289,Leerbereidheid,Optreden,0.4643822960204252
+290,Leerbereidheid,Organisatiesensitiviteit,0.5401046306928277
+291,Leerbereidheid,Overtuigingskracht,0.8842593574560602
+292,Leerbereidheid,Plannen en organiseren,0.5978142800376686
+293,Leerbereidheid,Relatiebeheer,0.28504219280388826
+294,Leerbereidheid,Resultaatgerichtheid,0.39480743348488034
+295,Leerbereidheid,Samenwerking,0.4113291936401363
+296,Leerbereidheid,Sensitiviteit,0.7301341499002592
+297,Leerbereidheid,Sociabiliteit,0.508443945688322
+298,Leerbereidheid,Stressbestendigheid,0.30522574971331967
+299,Leerbereidheid,Voortgangscontrole,0.3642881902034433
+300,Leerbereidheid,Zelfstandigheid,0.27030662734491434
+301,Nauwkeurigheid,Onderhandelen,-0.15052723477687224
+302,Nauwkeurigheid,Ondernemerschap,-0.03286910452590798
+303,Nauwkeurigheid,Optreden,0.05530120712293594
+304,Nauwkeurigheid,Organisatiesensitiviteit,0.30852175956357103
+305,Nauwkeurigheid,Overtuigingskracht,-0.5682283864360737
+306,Nauwkeurigheid,Plannen en organiseren,0.6680526121086205
+307,Nauwkeurigheid,Relatiebeheer,0.6415567977060553
+308,Nauwkeurigheid,Resultaatgerichtheid,0.0019414133442242525
+309,Nauwkeurigheid,Samenwerking,0.5769224199725095
+310,Nauwkeurigheid,Sensitiviteit,0.2798412393790064
+311,Nauwkeurigheid,Sociabiliteit,0.6139925679967498
+312,Nauwkeurigheid,Stressbestendigheid,-0.3261367486279839
+313,Nauwkeurigheid,Voortgangscontrole,0.6507722809448268
+314,Nauwkeurigheid,Zelfstandigheid,-0.41378161183105255
+315,Onderhandelen,Ondernemerschap,0.8618051826107841
+316,Onderhandelen,Optreden,0.8151434321657371
+317,Onderhandelen,Organisatiesensitiviteit,0.4821972934975278
+318,Onderhandelen,Overtuigingskracht,0.8099288478381284
+319,Onderhandelen,Plannen en organiseren,0.43016105762996576
+320,Onderhandelen,Relatiebeheer,0.5199639960691874
+321,Onderhandelen,Resultaatgerichtheid,0.758379064173222
+322,Onderhandelen,Samenwerking,0.2751430666069378
+323,Onderhandelen,Sensitiviteit,0.39997340784783786
+324,Onderhandelen,Sociabiliteit,0.42157457048950703
+325,Onderhandelen,Stressbestendigheid,0.3275020897132875
+326,Onderhandelen,Voortgangscontrole,0.41446979490166574
+327,Onderhandelen,Zelfstandigheid,0.8222857766422145
+328,Ondernemerschap,Optreden,0.9202401915080595
+329,Ondernemerschap,Organisatiesensitiviteit,0.07968894539121715
+330,Ondernemerschap,Overtuigingskracht,0.8644548418575985
+331,Ondernemerschap,Plannen en organiseren,0.5271809469944551
+332,Ondernemerschap,Relatiebeheer,0.6340967844121692
+333,Ondernemerschap,Resultaatgerichtheid,0.9370947287538377
+334,Ondernemerschap,Samenwerking,0.3857629894090263
+335,Ondernemerschap,Sensitiviteit,0.259357872407553
+336,Ondernemerschap,Sociabiliteit,0.2571282305177029
+337,Ondernemerschap,Stressbestendigheid,0.08313130122840219
+338,Ondernemerschap,Voortgangscontrole,0.6728567526290169
+339,Ondernemerschap,Zelfstandigheid,0.47432753160796476
+340,Optreden,Organisatiesensitiviteit,0.11273760937228046
+341,Optreden,Overtuigingskracht,0.8642448233237944
+342,Optreden,Plannen en organiseren,0.8253250219955633
+343,Optreden,Relatiebeheer,0.7497979971588027
+344,Optreden,Resultaatgerichtheid,0.9285095636120125
+345,Optreden,Samenwerking,0.15967073506383256
+346,Optreden,Sensitiviteit,0.16317056175429406
+347,Optreden,Sociabiliteit,0.43786452442704
+348,Optreden,Stressbestendigheid,0.10144763710017067
+349,Optreden,Voortgangscontrole,0.6814937870272654
+350,Optreden,Zelfstandigheid,0.2585251899034417
+351,Organisatiesensitiviteit,Overtuigingskracht,-0.17341225124910958
+352,Organisatiesensitiviteit,Plannen en organiseren,0.5312731084873004
+353,Organisatiesensitiviteit,Relatiebeheer,0.42719178341892977
+354,Organisatiesensitiviteit,Resultaatgerichtheid,0.19249977728283038
+355,Organisatiesensitiviteit,Samenwerking,0.929735444802325
+356,Organisatiesensitiviteit,Sensitiviteit,0.9412432807203132
+357,Organisatiesensitiviteit,Sociabiliteit,0.8076557057008296
+358,Organisatiesensitiviteit,Stressbestendigheid,-0.04278776963389803
+359,Organisatiesensitiviteit,Voortgangscontrole,0.4630148358713494
+360,Organisatiesensitiviteit,Zelfstandigheid,0.02117791551031049
+361,Overtuigingskracht,Plannen en organiseren,0.22907470149958464
+362,Overtuigingskracht,Relatiebeheer,0.3058769815467659
+363,Overtuigingskracht,Resultaatgerichtheid,0.9028064259329993
+364,Overtuigingskracht,Samenwerking,-0.05144196634718597
+365,Overtuigingskracht,Sensitiviteit,0.13711531066752364
+366,Overtuigingskracht,Sociabiliteit,0.06378349067348212
+367,Overtuigingskracht,Stressbestendigheid,-0.021786217933791763
+368,Overtuigingskracht,Voortgangscontrole,0.12403042569178249
+369,Overtuigingskracht,Zelfstandigheid,0.48746408237733996
+370,Plannen en organiseren,Relatiebeheer,0.7482211830146211
+371,Plannen en organiseren,Resultaatgerichtheid,0.7781604987127809
+372,Plannen en organiseren,Samenwerking,0.6109524120785729
+373,Plannen en organiseren,Sensitiviteit,0.49398089975689297
+374,Plannen en organiseren,Sociabiliteit,0.63488462484872
+375,Plannen en organiseren,Stressbestendigheid,0.04174540203414559
+376,Plannen en organiseren,Voortgangscontrole,0.9680141123820525
+377,Plannen en organiseren,Zelfstandigheid,-0.19124643306025807
+378,Relatiebeheer,Resultaatgerichtheid,0.5573208836953932
+379,Relatiebeheer,Samenwerking,0.7267620649036115
+380,Relatiebeheer,Sensitiviteit,0.837242450404534
+381,Relatiebeheer,Sociabiliteit,0.8486741146683807
+382,Relatiebeheer,Stressbestendigheid,0.5306785651549427
+383,Relatiebeheer,Voortgangscontrole,0.781355918020101
+384,Relatiebeheer,Zelfstandigheid,0.2902907655257349
+385,Resultaatgerichtheid,Samenwerking,0.1186917142626344
+386,Resultaatgerichtheid,Sensitiviteit,0.24734735668631083
+387,Resultaatgerichtheid,Sociabiliteit,0.1776185156928113
+388,Resultaatgerichtheid,Stressbestendigheid,-0.19818891976072933
+389,Resultaatgerichtheid,Voortgangscontrole,0.657141976198981
+390,Resultaatgerichtheid,Zelfstandigheid,0.31327831584838844
+391,Samenwerking,Sensitiviteit,0.9462045251329066
+392,Samenwerking,Sociabiliteit,0.9240844162492934
+393,Samenwerking,Stressbestendigheid,0.683095982415364
+394,Samenwerking,Voortgangscontrole,0.7774640695557259
+395,Samenwerking,Zelfstandigheid,-0.24719329751681587
+396,Sensitiviteit,Sociabiliteit,0.9533256574366856
+397,Sensitiviteit,Stressbestendigheid,0.15961280894386537
+398,Sensitiviteit,Voortgangscontrole,0.42898158138808207
+399,Sensitiviteit,Zelfstandigheid,0.05784548521525819
+400,Sociabiliteit,Stressbestendigheid,0.79859385445932
+401,Sociabiliteit,Voortgangscontrole,0.6441614996231428
+402,Sociabiliteit,Zelfstandigheid,0.24047538799903675
+403,Stressbestendigheid,Voortgangscontrole,0.21670533128803104
+404,Stressbestendigheid,Zelfstandigheid,0.7744787169184506
+405,Voortgangscontrole,Zelfstandigheid,0.43636935180608505
+406,Aansturen van individuen,Aansturen van groepen,0.07285057743780396
+407,Ambitie,Aansturen van groepen,0.4955639512416117
+408,Assertiviteit,Aansturen van groepen,0.5422131592849857
+409,Besluitvaardigheid,Aansturen van groepen,0.5371776590615164
+410,Coachen van medewerkers,Aansturen van groepen,-0.26028588725719076
+411,Delegeren,Aansturen van groepen,0.3666425493393294
+412,Doorzettingsvermogen,Aansturen van groepen,0.4241995952730561
+413,Flexibiliteit,Aansturen van groepen,0.17604477960137124
+414,Initiatief,Aansturen van groepen,0.17397524912036144
+415,Inzet,Aansturen van groepen,0.3337144044246022
+416,Klantoriëntatie,Aansturen van groepen,-0.37638361737671255
+417,Kwaliteitsgerichtheid,Aansturen van groepen,0.37458226698811703
+418,Leerbereidheid,Aansturen van groepen,-0.2786563847874606
+419,Nauwkeurigheid,Aansturen van groepen,0.3866779811115839
+420,Onderhandelen,Aansturen van groepen,0.40463762309818707
+421,Ondernemerschap,Aansturen van groepen,0.39641983728557745
+422,Optreden,Aansturen van groepen,0.35810500415882324
+423,Organisatiesensitiviteit,Aansturen van groepen,0.14256000470214214
+424,Overtuigingskracht,Aansturen van groepen,0.289339374142565
+425,Plannen en organiseren,Aansturen van groepen,0.7263028988191038
+426,Relatiebeheer,Aansturen van groepen,-0.03708380483887973
+427,Resultaatgerichtheid,Aansturen van groepen,0.40672068194008076
+428,Samenwerking,Aansturen van groepen,0.15945200968195397
+429,Sensitiviteit,Aansturen van groepen,-0.38977036699748013
+430,Sociabiliteit,Aansturen van groepen,-0.3401499245193702
+431,Stressbestendigheid,Aansturen van groepen,0.09427051800243001
+432,Voortgangscontrole,Aansturen van groepen,0.7339367298143139
+433,Zelfstandigheid,Aansturen van groepen,0.6241331874711316
+434,Ambitie,Aansturen van individuen,0.5964372485900193
+435,Assertiviteit,Aansturen van individuen,0.43198205356373703
+436,Besluitvaardigheid,Aansturen van individuen,0.5816241356162168
+437,Coachen van medewerkers,Aansturen van individuen,0.7343506691774404
+438,Delegeren,Aansturen van individuen,0.7114806525606544
+439,Doorzettingsvermogen,Aansturen van individuen,0.7878896645173749
+440,Flexibiliteit,Aansturen van individuen,0.7463499109953097
+441,Initiatief,Aansturen van individuen,0.6066172390417912
+442,Inzet,Aansturen van individuen,0.8619470661832744
+443,Klantoriëntatie,Aansturen van individuen,0.8119796225911883
+444,Kwaliteitsgerichtheid,Aansturen van individuen,-0.4429573510187346
+445,Leerbereidheid,Aansturen van individuen,0.6640358075086298
+446,Nauwkeurigheid,Aansturen van individuen,-0.4169837430391997
+447,Onderhandelen,Aansturen van individuen,0.7914558944451274
+448,Ondernemerschap,Aansturen van individuen,0.5806418593274981
+449,Optreden,Aansturen van individuen,0.4723433046609841
+450,Organisatiesensitiviteit,Aansturen van individuen,0.7151703268251364
+451,Overtuigingskracht,Aansturen van individuen,0.5959231677187665
+452,Plannen en organiseren,Aansturen van individuen,0.1450760339904036
+453,Relatiebeheer,Aansturen van individuen,0.34152018757540487
+454,Resultaatgerichtheid,Aansturen van individuen,0.6214999281015902
+455,Samenwerking,Aansturen van individuen,0.3942745114772004
+456,Sensitiviteit,Aansturen van individuen,0.6652499587278038
+457,Sociabiliteit,Aansturen van individuen,0.8317301222312073
+458,Stressbestendigheid,Aansturen van individuen,0.6577701859533064
+459,Voortgangscontrole,Aansturen van individuen,0.44464043117839513
+460,Zelfstandigheid,Aansturen van individuen,0.6151787439633749
+461,Assertiviteit,Ambitie,0.4090030066728863
+462,Besluitvaardigheid,Ambitie,0.5035157955697327
+463,Coachen van medewerkers,Ambitie,0.23390063989259996
+464,Delegeren,Ambitie,0.5729035752419137
+465,Doorzettingsvermogen,Ambitie,0.41595618237375104
+466,Flexibiliteit,Ambitie,0.5109117763629291
+467,Initiatief,Ambitie,0.519667570217617
+468,Inzet,Ambitie,0.40084908435688044
+469,Klantoriëntatie,Ambitie,-0.1457033781035394
+470,Kwaliteitsgerichtheid,Ambitie,-0.31943169131576293
+471,Leerbereidheid,Ambitie,0.3745347873831836
+472,Nauwkeurigheid,Ambitie,-0.33729577451055515
+473,Onderhandelen,Ambitie,0.5942719044061867
+474,Ondernemerschap,Ambitie,0.786110442253429
+475,Optreden,Ambitie,0.7614103684317931
+476,Organisatiesensitiviteit,Ambitie,0.2532831694601217
+477,Overtuigingskracht,Ambitie,0.7467402774375766
+478,Plannen en organiseren,Ambitie,0.14479384370715112
+479,Relatiebeheer,Ambitie,0.19606802924680886
+480,Resultaatgerichtheid,Ambitie,0.878674051993309
+481,Samenwerking,Ambitie,-0.30494071920898896
+482,Sensitiviteit,Ambitie,-0.0428012239938652
+483,Sociabiliteit,Ambitie,-0.1048791932533261
+484,Stressbestendigheid,Ambitie,-0.13477493677749727
+485,Voortgangscontrole,Ambitie,0.19367789229764976
+486,Zelfstandigheid,Ambitie,0.3870611159293505
+487,Besluitvaardigheid,Assertiviteit,0.8817307714842992
+488,Coachen van medewerkers,Assertiviteit,-0.20523655569004967
+489,Delegeren,Assertiviteit,0.6331089578813693
+490,Doorzettingsvermogen,Assertiviteit,0.46083321146646233
+491,Flexibiliteit,Assertiviteit,-0.14805889015467438
+492,Initiatief,Assertiviteit,0.23957705560439319
+493,Inzet,Assertiviteit,0.42690114544797375
+494,Klantoriëntatie,Assertiviteit,-0.19091267345159008
+495,Kwaliteitsgerichtheid,Assertiviteit,-0.19128292461501628
+496,Leerbereidheid,Assertiviteit,0.622491015517596
+497,Nauwkeurigheid,Assertiviteit,-0.1103873915478999
+498,Onderhandelen,Assertiviteit,0.6440353181099522
+499,Ondernemerschap,Assertiviteit,0.5435560221109892
+500,Optreden,Assertiviteit,0.8323031705662749
+501,Organisatiesensitiviteit,Assertiviteit,-0.4219307570797097
+502,Overtuigingskracht,Assertiviteit,0.7671129944235141
+503,Plannen en organiseren,Assertiviteit,0.3554514494746666
+504,Relatiebeheer,Assertiviteit,0.3890062476305831
+505,Resultaatgerichtheid,Assertiviteit,0.42925293878199466
+506,Samenwerking,Assertiviteit,-0.4069319230681345
+507,Sensitiviteit,Assertiviteit,-0.38250672778605954
+508,Sociabiliteit,Assertiviteit,-0.3930476152851998
+509,Stressbestendigheid,Assertiviteit,0.6492020448544078
+510,Voortgangscontrole,Assertiviteit,0.22334678847427863
+511,Zelfstandigheid,Assertiviteit,0.9050200094435161
+512,Coachen van medewerkers,Besluitvaardigheid,-0.07009246881347804
+513,Delegeren,Besluitvaardigheid,0.6937643340521771
+514,Doorzettingsvermogen,Besluitvaardigheid,0.23785620705478847
+515,Flexibiliteit,Besluitvaardigheid,-0.17322796263924664
+516,Initiatief,Besluitvaardigheid,0.19045269073526175
+517,Inzet,Besluitvaardigheid,0.18490581424421865
+518,Klantoriëntatie,Besluitvaardigheid,-0.19474131008944104
+519,Kwaliteitsgerichtheid,Besluitvaardigheid,-0.24112861950711842
+520,Leerbereidheid,Besluitvaardigheid,0.23289318640692663
+521,Nauwkeurigheid,Besluitvaardigheid,-0.14641163395991683
+522,Onderhandelen,Besluitvaardigheid,0.48393373641230386
+523,Ondernemerschap,Besluitvaardigheid,0.49614363004731343
+524,Optreden,Besluitvaardigheid,0.46783454963240256
+525,Organisatiesensitiviteit,Besluitvaardigheid,-0.24857342139084607
+526,Overtuigingskracht,Besluitvaardigheid,0.6774704587541868
+527,Plannen en organiseren,Besluitvaardigheid,-0.49602761250427685
+528,Relatiebeheer,Besluitvaardigheid,0.3506059539302739
+529,Resultaatgerichtheid,Besluitvaardigheid,0.4534796327659941
+530,Samenwerking,Besluitvaardigheid,-0.22971041060010733
+531,Sensitiviteit,Besluitvaardigheid,-0.2871058094124459
+532,Sociabiliteit,Besluitvaardigheid,-0.13859136889113588
+533,Stressbestendigheid,Besluitvaardigheid,0.40301710487214326
+534,Voortgangscontrole,Besluitvaardigheid,-0.19510960575751882
+535,Zelfstandigheid,Besluitvaardigheid,0.603508353095213
+536,Delegeren,Coachen van medewerkers,0.7611941979946315
+537,Doorzettingsvermogen,Coachen van medewerkers,0.487827921979707
+538,Flexibiliteit,Coachen van medewerkers,0.7877731125251491
+539,Initiatief,Coachen van medewerkers,0.602416174499872
+540,Inzet,Coachen van medewerkers,0.5882529775314391
+541,Klantoriëntatie,Coachen van medewerkers,0.9289770962435195
+542,Kwaliteitsgerichtheid,Coachen van medewerkers,0.5416673222037062
+543,Leerbereidheid,Coachen van medewerkers,0.6382604261776643
+544,Nauwkeurigheid,Coachen van medewerkers,0.45496253800009945
+545,Onderhandelen,Coachen van medewerkers,0.456246767877459
+546,Ondernemerschap,Coachen van medewerkers,0.3188705473935018
+547,Optreden,Coachen van medewerkers,0.4486032729693732
+548,Organisatiesensitiviteit,Coachen van medewerkers,0.8768839903227597
+549,Overtuigingskracht,Coachen van medewerkers,0.4006907822657134
+550,Plannen en organiseren,Coachen van medewerkers,0.3777210253571565
+551,Relatiebeheer,Coachen van medewerkers,0.6975261371117628
+552,Resultaatgerichtheid,Coachen van medewerkers,0.3882272951556298
+553,Samenwerking,Coachen van medewerkers,0.8626931695908581
+554,Sensitiviteit,Coachen van medewerkers,0.8828759763505937
+555,Sociabiliteit,Coachen van medewerkers,0.9796833185245571
+556,Stressbestendigheid,Coachen van medewerkers,0.7397308931792275
+557,Voortgangscontrole,Coachen van medewerkers,0.5323864573107787
+558,Zelfstandigheid,Coachen van medewerkers,0.19887767715909913
+559,Doorzettingsvermogen,Delegeren,0.6993464834110454
+560,Flexibiliteit,Delegeren,0.802041420122245
+561,Initiatief,Delegeren,0.8572862372808095
+562,Inzet,Delegeren,0.8199520734304836
+563,Klantoriëntatie,Delegeren,0.5968544555356048
+564,Kwaliteitsgerichtheid,Delegeren,0.21782298739282893
+565,Leerbereidheid,Delegeren,0.2758963977887311
+566,Nauwkeurigheid,Delegeren,0.18778695298626083
+567,Onderhandelen,Delegeren,0.8110310397089033
+568,Ondernemerschap,Delegeren,0.7249738456433937
+569,Optreden,Delegeren,0.938680681590368
+570,Organisatiesensitiviteit,Delegeren,0.5159017416974033
+571,Overtuigingskracht,Delegeren,0.6885621629665056
+572,Plannen en organiseren,Delegeren,0.8727736199040413
+573,Relatiebeheer,Delegeren,0.8964310534555257
+574,Resultaatgerichtheid,Delegeren,0.7878661879631956
+575,Samenwerking,Delegeren,0.4990151782438251
+576,Sensitiviteit,Delegeren,0.5500674538200705
+577,Sociabiliteit,Delegeren,0.6970683160426223
+578,Stressbestendigheid,Delegeren,0.5726086895394082
+579,Voortgangscontrole,Delegeren,0.7508795674566145
+580,Zelfstandigheid,Delegeren,0.5479228915936052
+581,Flexibiliteit,Doorzettingsvermogen,0.633476076424565
+582,Initiatief,Doorzettingsvermogen,0.8595471621693019
+583,Inzet,Doorzettingsvermogen,0.9701504841130154
+584,Klantoriëntatie,Doorzettingsvermogen,0.6795355333558616
+585,Kwaliteitsgerichtheid,Doorzettingsvermogen,0.1419112322938511
+586,Leerbereidheid,Doorzettingsvermogen,0.5911393598392404
+587,Nauwkeurigheid,Doorzettingsvermogen,0.1351044494042604
+588,Onderhandelen,Doorzettingsvermogen,0.8353852177995197
+589,Ondernemerschap,Doorzettingsvermogen,0.7041115760554679
+590,Optreden,Doorzettingsvermogen,0.8674299830860249
+591,Organisatiesensitiviteit,Doorzettingsvermogen,0.3399761207394548
+592,Overtuigingskracht,Doorzettingsvermogen,0.410629487010776
+593,Plannen en organiseren,Doorzettingsvermogen,0.5928867326796929
+594,Relatiebeheer,Doorzettingsvermogen,0.5385914885984294
+595,Resultaatgerichtheid,Doorzettingsvermogen,0.5479334459407149
+596,Samenwerking,Doorzettingsvermogen,0.48842958642926204
+597,Sensitiviteit,Doorzettingsvermogen,0.5386349744811697
+598,Sociabiliteit,Doorzettingsvermogen,0.6882549153313615
+599,Stressbestendigheid,Doorzettingsvermogen,0.6866220890913582
+600,Voortgangscontrole,Doorzettingsvermogen,0.7464546111885391
+601,Zelfstandigheid,Doorzettingsvermogen,0.7591713955128546
+602,Initiatief,Flexibiliteit,0.7425955526032928
+603,Inzet,Flexibiliteit,0.6957449647956147
+604,Klantoriëntatie,Flexibiliteit,0.729253459186401
+605,Kwaliteitsgerichtheid,Flexibiliteit,0.16680246631394965
+606,Leerbereidheid,Flexibiliteit,0.8045953520197118
+607,Nauwkeurigheid,Flexibiliteit,0.10028162023372056
+608,Onderhandelen,Flexibiliteit,0.8198209631007112
+609,Ondernemerschap,Flexibiliteit,0.6703957871619791
+610,Optreden,Flexibiliteit,0.8856852875023501
+611,Organisatiesensitiviteit,Flexibiliteit,0.4815862088721917
+612,Overtuigingskracht,Flexibiliteit,0.9147966455320615
+613,Plannen en organiseren,Flexibiliteit,0.6360793587849798
+614,Relatiebeheer,Flexibiliteit,0.646784438852044
+615,Resultaatgerichtheid,Flexibiliteit,0.8472487363533856
+616,Samenwerking,Flexibiliteit,0.5959519725816974
+617,Sensitiviteit,Flexibiliteit,0.7183948587981767
+618,Sociabiliteit,Flexibiliteit,0.7629881868162182
+619,Stressbestendigheid,Flexibiliteit,-0.019186456516218395
+620,Voortgangscontrole,Flexibiliteit,0.5891749831000741
+621,Zelfstandigheid,Flexibiliteit,-0.26525267951676385
+622,Inzet,Initiatief,0.9164468636323176
+623,Klantoriëntatie,Initiatief,0.7320303961954396
+624,Kwaliteitsgerichtheid,Initiatief,0.15958200383863427
+625,Leerbereidheid,Initiatief,0.6423230689775558
+626,Nauwkeurigheid,Initiatief,0.34739622868721237
+627,Onderhandelen,Initiatief,0.8159272376250027
+628,Ondernemerschap,Initiatief,0.8570534065654111
+629,Optreden,Initiatief,0.9608008707898005
+630,Organisatiesensitiviteit,Initiatief,0.40235578118125315
+631,Overtuigingskracht,Initiatief,0.6985042439516388
+632,Plannen en organiseren,Initiatief,0.6716412880689494
+633,Relatiebeheer,Initiatief,0.9426471255166783
+634,Resultaatgerichtheid,Initiatief,0.801357835158831
+635,Samenwerking,Initiatief,0.6751086495967512
+636,Sensitiviteit,Initiatief,0.3945726025345274
+637,Sociabiliteit,Initiatief,0.8410730016957303
+638,Stressbestendigheid,Initiatief,0.2261372692170124
+639,Voortgangscontrole,Initiatief,0.8900892868874507
+640,Zelfstandigheid,Initiatief,0.23042763832880936
+641,Klantoriëntatie,Inzet,0.7201297285329956
+642,Kwaliteitsgerichtheid,Inzet,0.20910430344516942
+643,Leerbereidheid,Inzet,0.5491518690356552
+644,Nauwkeurigheid,Inzet,0.19784424384492072
+645,Onderhandelen,Inzet,0.8525103247024083
+646,Ondernemerschap,Inzet,0.7646149665405554
+647,Optreden,Inzet,0.8940197638997972
+648,Organisatiesensitiviteit,Inzet,0.5301357031911876
+649,Overtuigingskracht,Inzet,0.47894396498210695
+650,Plannen en organiseren,Inzet,0.6592990338488346
+651,Relatiebeheer,Inzet,0.7901042007191493
+652,Resultaatgerichtheid,Inzet,0.6371962981832272
+653,Samenwerking,Inzet,0.5763452967697045
+654,Sensitiviteit,Inzet,0.5835495202773165
+655,Sociabiliteit,Inzet,0.7649995598225301
+656,Stressbestendigheid,Inzet,0.5863488387938292
+657,Voortgangscontrole,Inzet,0.8121013070990827
+658,Zelfstandigheid,Inzet,0.6927131250152291
+659,Kwaliteitsgerichtheid,Klantoriëntatie,0.3654292267011142
+660,Leerbereidheid,Klantoriëntatie,0.8033939264130371
+661,Nauwkeurigheid,Klantoriëntatie,0.3062816551749984
+662,Onderhandelen,Klantoriëntatie,0.5517076657790161
+663,Ondernemerschap,Klantoriëntatie,0.16562352602053812
+664,Optreden,Klantoriëntatie,0.2943704623150396
+665,Organisatiesensitiviteit,Klantoriëntatie,0.8475818285385204
+666,Overtuigingskracht,Klantoriëntatie,-0.007384803721360347
+667,Plannen en organiseren,Klantoriëntatie,0.55586003672331
+668,Relatiebeheer,Klantoriëntatie,0.7314174160825543
+669,Resultaatgerichtheid,Klantoriëntatie,0.05931093214855149
+670,Samenwerking,Klantoriëntatie,0.9140934462787595
+671,Sensitiviteit,Klantoriëntatie,0.9770972923623686
+672,Sociabiliteit,Klantoriëntatie,0.9872535033730577
+673,Stressbestendigheid,Klantoriëntatie,0.8569575565023595
+674,Voortgangscontrole,Klantoriëntatie,0.5512133687525935
+675,Zelfstandigheid,Klantoriëntatie,-0.017779687436046642
+676,Leerbereidheid,Kwaliteitsgerichtheid,-0.16361793621614762
+677,Nauwkeurigheid,Kwaliteitsgerichtheid,0.9802044690011353
+678,Onderhandelen,Kwaliteitsgerichtheid,-0.12631101644863027
+679,Ondernemerschap,Kwaliteitsgerichtheid,-0.02980220567239883
+680,Optreden,Kwaliteitsgerichtheid,0.3117939728885749
+681,Organisatiesensitiviteit,Kwaliteitsgerichtheid,0.356870900641013
+682,Overtuigingskracht,Kwaliteitsgerichtheid,-0.5548402147286263
+683,Plannen en organiseren,Kwaliteitsgerichtheid,0.8930832623671157
+684,Relatiebeheer,Kwaliteitsgerichtheid,0.6885374013659296
+685,Resultaatgerichtheid,Kwaliteitsgerichtheid,0.023686320420056677
+686,Samenwerking,Kwaliteitsgerichtheid,0.6160588279485898
+687,Sensitiviteit,Kwaliteitsgerichtheid,0.35246452022946007
+688,Sociabiliteit,Kwaliteitsgerichtheid,0.6590452746754405
+689,Stressbestendigheid,Kwaliteitsgerichtheid,-0.35441190541131334
+690,Voortgangscontrole,Kwaliteitsgerichtheid,0.7549578023691325
+691,Zelfstandigheid,Kwaliteitsgerichtheid,-0.5078968722032711
+692,Nauwkeurigheid,Leerbereidheid,-0.20284174438744812
+693,Onderhandelen,Leerbereidheid,0.9016398971588782
+694,Ondernemerschap,Leerbereidheid,0.5051980650803941
+695,Optreden,Leerbereidheid,0.4643822960204252
+696,Organisatiesensitiviteit,Leerbereidheid,0.5401046306928277
+697,Overtuigingskracht,Leerbereidheid,0.8842593574560602
+698,Plannen en organiseren,Leerbereidheid,0.5978142800376686
+699,Relatiebeheer,Leerbereidheid,0.28504219280388826
+700,Resultaatgerichtheid,Leerbereidheid,0.39480743348488034
+701,Samenwerking,Leerbereidheid,0.4113291936401363
+702,Sensitiviteit,Leerbereidheid,0.7301341499002592
+703,Sociabiliteit,Leerbereidheid,0.508443945688322
+704,Stressbestendigheid,Leerbereidheid,0.30522574971331967
+705,Voortgangscontrole,Leerbereidheid,0.3642881902034433
+706,Zelfstandigheid,Leerbereidheid,0.27030662734491434
+707,Onderhandelen,Nauwkeurigheid,-0.15052723477687224
+708,Ondernemerschap,Nauwkeurigheid,-0.03286910452590798
+709,Optreden,Nauwkeurigheid,0.05530120712293594
+710,Organisatiesensitiviteit,Nauwkeurigheid,0.30852175956357103
+711,Overtuigingskracht,Nauwkeurigheid,-0.5682283864360737
+712,Plannen en organiseren,Nauwkeurigheid,0.6680526121086205
+713,Relatiebeheer,Nauwkeurigheid,0.6415567977060553
+714,Resultaatgerichtheid,Nauwkeurigheid,0.0019414133442242525
+715,Samenwerking,Nauwkeurigheid,0.5769224199725095
+716,Sensitiviteit,Nauwkeurigheid,0.2798412393790064
+717,Sociabiliteit,Nauwkeurigheid,0.6139925679967498
+718,Stressbestendigheid,Nauwkeurigheid,-0.3261367486279839
+719,Voortgangscontrole,Nauwkeurigheid,0.6507722809448268
+720,Zelfstandigheid,Nauwkeurigheid,-0.41378161183105255
+721,Ondernemerschap,Onderhandelen,0.8618051826107841
+722,Optreden,Onderhandelen,0.8151434321657371
+723,Organisatiesensitiviteit,Onderhandelen,0.4821972934975278
+724,Overtuigingskracht,Onderhandelen,0.8099288478381284
+725,Plannen en organiseren,Onderhandelen,0.43016105762996576
+726,Relatiebeheer,Onderhandelen,0.5199639960691874
+727,Resultaatgerichtheid,Onderhandelen,0.758379064173222
+728,Samenwerking,Onderhandelen,0.2751430666069378
+729,Sensitiviteit,Onderhandelen,0.39997340784783786
+730,Sociabiliteit,Onderhandelen,0.42157457048950703
+731,Stressbestendigheid,Onderhandelen,0.3275020897132875
+732,Voortgangscontrole,Onderhandelen,0.41446979490166574
+733,Zelfstandigheid,Onderhandelen,0.8222857766422145
+734,Optreden,Ondernemerschap,0.9202401915080595
+735,Organisatiesensitiviteit,Ondernemerschap,0.07968894539121715
+736,Overtuigingskracht,Ondernemerschap,0.8644548418575985
+737,Plannen en organiseren,Ondernemerschap,0.5271809469944551
+738,Relatiebeheer,Ondernemerschap,0.6340967844121692
+739,Resultaatgerichtheid,Ondernemerschap,0.9370947287538377
+740,Samenwerking,Ondernemerschap,0.3857629894090263
+741,Sensitiviteit,Ondernemerschap,0.259357872407553
+742,Sociabiliteit,Ondernemerschap,0.2571282305177029
+743,Stressbestendigheid,Ondernemerschap,0.08313130122840219
+744,Voortgangscontrole,Ondernemerschap,0.6728567526290169
+745,Zelfstandigheid,Ondernemerschap,0.47432753160796476
+746,Organisatiesensitiviteit,Optreden,0.11273760937228046
+747,Overtuigingskracht,Optreden,0.8642448233237944
+748,Plannen en organiseren,Optreden,0.8253250219955633
+749,Relatiebeheer,Optreden,0.7497979971588027
+750,Resultaatgerichtheid,Optreden,0.9285095636120125
+751,Samenwerking,Optreden,0.15967073506383256
+752,Sensitiviteit,Optreden,0.16317056175429406
+753,Sociabiliteit,Optreden,0.43786452442704
+754,Stressbestendigheid,Optreden,0.10144763710017067
+755,Voortgangscontrole,Optreden,0.6814937870272654
+756,Zelfstandigheid,Optreden,0.2585251899034417
+757,Overtuigingskracht,Organisatiesensitiviteit,-0.17341225124910958
+758,Plannen en organiseren,Organisatiesensitiviteit,0.5312731084873004
+759,Relatiebeheer,Organisatiesensitiviteit,0.42719178341892977
+760,Resultaatgerichtheid,Organisatiesensitiviteit,0.19249977728283038
+761,Samenwerking,Organisatiesensitiviteit,0.929735444802325
+762,Sensitiviteit,Organisatiesensitiviteit,0.9412432807203132
+763,Sociabiliteit,Organisatiesensitiviteit,0.8076557057008296
+764,Stressbestendigheid,Organisatiesensitiviteit,-0.04278776963389803
+765,Voortgangscontrole,Organisatiesensitiviteit,0.4630148358713494
+766,Zelfstandigheid,Organisatiesensitiviteit,0.02117791551031049
+767,Plannen en organiseren,Overtuigingskracht,0.22907470149958464
+768,Relatiebeheer,Overtuigingskracht,0.3058769815467659
+769,Resultaatgerichtheid,Overtuigingskracht,0.9028064259329993
+770,Samenwerking,Overtuigingskracht,-0.05144196634718597
+771,Sensitiviteit,Overtuigingskracht,0.13711531066752364
+772,Sociabiliteit,Overtuigingskracht,0.06378349067348212
+773,Stressbestendigheid,Overtuigingskracht,-0.021786217933791763
+774,Voortgangscontrole,Overtuigingskracht,0.12403042569178249
+775,Zelfstandigheid,Overtuigingskracht,0.48746408237733996
+776,Relatiebeheer,Plannen en organiseren,0.7482211830146211
+777,Resultaatgerichtheid,Plannen en organiseren,0.7781604987127809
+778,Samenwerking,Plannen en organiseren,0.6109524120785729
+779,Sensitiviteit,Plannen en organiseren,0.49398089975689297
+780,Sociabiliteit,Plannen en organiseren,0.63488462484872
+781,Stressbestendigheid,Plannen en organiseren,0.04174540203414559
+782,Voortgangscontrole,Plannen en organiseren,0.9680141123820525
+783,Zelfstandigheid,Plannen en organiseren,-0.19124643306025807
+784,Resultaatgerichtheid,Relatiebeheer,0.5573208836953932
+785,Samenwerking,Relatiebeheer,0.7267620649036115
+786,Sensitiviteit,Relatiebeheer,0.837242450404534
+787,Sociabiliteit,Relatiebeheer,0.8486741146683807
+788,Stressbestendigheid,Relatiebeheer,0.5306785651549427
+789,Voortgangscontrole,Relatiebeheer,0.781355918020101
+790,Zelfstandigheid,Relatiebeheer,0.2902907655257349
+791,Samenwerking,Resultaatgerichtheid,0.1186917142626344
+792,Sensitiviteit,Resultaatgerichtheid,0.24734735668631083
+793,Sociabiliteit,Resultaatgerichtheid,0.1776185156928113
+794,Stressbestendigheid,Resultaatgerichtheid,-0.19818891976072933
+795,Voortgangscontrole,Resultaatgerichtheid,0.657141976198981
+796,Zelfstandigheid,Resultaatgerichtheid,0.31327831584838844
+797,Sensitiviteit,Samenwerking,0.9462045251329066
+798,Sociabiliteit,Samenwerking,0.9240844162492934
+799,Stressbestendigheid,Samenwerking,0.683095982415364
+800,Voortgangscontrole,Samenwerking,0.7774640695557259
+801,Zelfstandigheid,Samenwerking,-0.24719329751681587
+802,Sociabiliteit,Sensitiviteit,0.9533256574366856
+803,Stressbestendigheid,Sensitiviteit,0.15961280894386537
+804,Voortgangscontrole,Sensitiviteit,0.42898158138808207
+805,Zelfstandigheid,Sensitiviteit,0.05784548521525819
+806,Stressbestendigheid,Sociabiliteit,0.79859385445932
+807,Voortgangscontrole,Sociabiliteit,0.6441614996231428
+808,Zelfstandigheid,Sociabiliteit,0.24047538799903675
+809,Voortgangscontrole,Stressbestendigheid,0.21670533128803104
+810,Zelfstandigheid,Stressbestendigheid,0.7744787169184506
+811,Zelfstandigheid,Voortgangscontrole,0.43636935180608505

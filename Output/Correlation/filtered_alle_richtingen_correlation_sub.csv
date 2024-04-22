@@ -1,0 +1,353 @@
+Correlation,Subkenmerk 1,Subkenmerk 2,Hoofdkenmerk 1,Hoofdkenmerk 2,Richting
+-0.7302967433402214,Competitie,Incasseringsvermogen,Invloed,Stabiliteit,Scientist
+0.7483314773547882,Competitie,Nauwkeurigheid,Invloed,Structuur,Scientist
+-0.9534625892455924,Competitie,Onafhankelijkheid,Invloed,Gedrevenheid,Scientist
+-0.7627700713964739,Competitie,Originaliteit,Invloed,Gedrevenheid,Scientist
+0.6135719910778964,Competitie,Sociaal Ontspannen,Invloed,Sociabiliteit,Scientist
+0.9782685448251888,Competitie,Status,Invloed,Invloed,Scientist
+-0.9534625892455922,Competitie,Volharding,Invloed,Gedrevenheid,Scientist
+-0.7627700713964739,Competitie,Zelfontwikkeling,Invloed,Gedrevenheid,Scientist
+0.6708203932499369,Competitie,Zelfvertrouwen,Invloed,Stabiliteit,Scientist
+-0.8432740427115679,Competitie,Zorgzaamheid,Invloed,Sociabiliteit,Scientist
+0.8528028654224417,Conformisme,Dominantie,Structuur,Invloed,Scientist
+-0.8528028654224417,Conformisme,Frustratietolerantie,Structuur,Stabiliteit,Scientist
+0.6708203932499369,Conformisme,Hartelijkheid,Structuur,Sociabiliteit,Scientist
+0.8164965809277259,Conformisme,Incasseringsvermogen,Structuur,Stabiliteit,Scientist
+0.7071067811865475,Conformisme,Positivisme,Structuur,Stabiliteit,Scientist
+0.9561828874675149,Conformisme,Regelmaat,Structuur,Structuur,Scientist
+0.944911182523068,Conformisme,Zelfonthulling,Structuur,Sociabiliteit,Scientist
+0.7171371656006361,Conformisme,Zelfvertoon,Structuur,Invloed,Scientist
+0.7071067811865475,Conformisme,Zorgzaamheid,Structuur,Sociabiliteit,Scientist
+0.8181818181818182,Contactbehoefte,Dominantie,Sociabiliteit,Invloed,Scientist
+1.0,Contactbehoefte,Energie,Sociabiliteit,Gedrevenheid,Scientist
+-0.6363636363636364,Contactbehoefte,Frustratietolerantie,Sociabiliteit,Stabiliteit,Scientist
+0.9534625892455924,Contactbehoefte,Hartelijkheid,Sociabiliteit,Sociabiliteit,Scientist
+0.6625413488689131,Contactbehoefte,Nauwkeurigheid,Sociabiliteit,Structuur,Scientist
+-0.6363636363636362,Contactbehoefte,Onafhankelijkheid,Sociabiliteit,Gedrevenheid,Scientist
+1.0,Contactbehoefte,Ordelijkheid,Sociabiliteit,Structuur,Scientist
+0.9506541513652699,Contactbehoefte,Sociaal Ontspannen,Sociabiliteit,Sociabiliteit,Scientist
+0.9028289727756885,Contactbehoefte,Variatiebehoefte,Sociabiliteit,Gedrevenheid,Scientist
+0.6625413488689132,Contactbehoefte,Vertrouwen,Sociabiliteit,Sociabiliteit,Scientist
+-0.8992288030258969,Contactbehoefte,Weloverwogen,Sociabiliteit,Structuur,Scientist
+0.8664002254439636,Contactbehoefte,Zelfvertoon,Sociabiliteit,Invloed,Scientist
+0.8528028654224417,Contactbehoefte,Zelfvertrouwen,Sociabiliteit,Stabiliteit,Scientist
+0.8181818181818182,Dominantie,Energie,Invloed,Gedrevenheid,Scientist
+-0.8181818181818182,Dominantie,Frustratietolerantie,Invloed,Stabiliteit,Scientist
+0.9534625892455922,Dominantie,Hartelijkheid,Invloed,Sociabiliteit,Scientist
+0.7644707871564382,Dominantie,Nauwkeurigheid,Invloed,Structuur,Scientist
+0.8181818181818182,Dominantie,Ordelijkheid,Invloed,Structuur,Scientist
+0.7644707871564382,Dominantie,Regelmaat,Invloed,Structuur,Scientist
+0.6581451817144176,Dominantie,Sociaal Ontspannen,Invloed,Sociabiliteit,Scientist
+0.6673083711820307,Dominantie,Variatiebehoefte,Invloed,Gedrevenheid,Scientist
+0.8058229640253803,Dominantie,Zelfonthulling,Invloed,Sociabiliteit,Scientist
+0.9683296637314887,Dominantie,Zelfvertoon,Invloed,Invloed,Scientist
+0.8528028654224417,Dominantie,Zelfvertrouwen,Invloed,Stabiliteit,Scientist
+-0.6363636363636364,Energie,Frustratietolerantie,Gedrevenheid,Stabiliteit,Scientist
+0.9534625892455924,Energie,Hartelijkheid,Gedrevenheid,Sociabiliteit,Scientist
+0.6625413488689131,Energie,Nauwkeurigheid,Gedrevenheid,Structuur,Scientist
+-0.6363636363636362,Energie,Onafhankelijkheid,Gedrevenheid,Gedrevenheid,Scientist
+1.0,Energie,Ordelijkheid,Gedrevenheid,Structuur,Scientist
+0.9506541513652699,Energie,Sociaal Ontspannen,Gedrevenheid,Sociabiliteit,Scientist
+0.9028289727756885,Energie,Variatiebehoefte,Gedrevenheid,Gedrevenheid,Scientist
+0.6625413488689132,Energie,Vertrouwen,Gedrevenheid,Sociabiliteit,Scientist
+-0.8992288030258969,Energie,Weloverwogen,Gedrevenheid,Structuur,Scientist
+0.8664002254439636,Energie,Zelfvertoon,Gedrevenheid,Invloed,Scientist
+0.8528028654224417,Energie,Zelfvertrouwen,Gedrevenheid,Stabiliteit,Scientist
+-0.7627700713964738,Frustratietolerantie,Hartelijkheid,Stabiliteit,Sociabiliteit,Scientist
+-0.8703882797784891,Frustratietolerantie,Incasseringsvermogen,Stabiliteit,Stabiliteit,Scientist
+-0.6363636363636364,Frustratietolerantie,Ordelijkheid,Stabiliteit,Structuur,Scientist
+-0.6625413488689131,Frustratietolerantie,Regelmaat,Stabiliteit,Structuur,Scientist
+-0.7458152383799167,Frustratietolerantie,Variatiebehoefte,Stabiliteit,Gedrevenheid,Scientist
+-0.8664002254439634,Frustratietolerantie,Vertrouwen,Stabiliteit,Sociabiliteit,Scientist
+-0.6363636363636364,Frustratietolerantie,Volharding,Stabiliteit,Gedrevenheid,Scientist
+-0.9669875568304563,Frustratietolerantie,Zelfonthulling,Stabiliteit,Sociabiliteit,Scientist
+-0.6625413488689132,Frustratietolerantie,Zelfvertoon,Stabiliteit,Invloed,Scientist
+-0.7035264706814485,Frustratietolerantie,Zorgzaamheid,Stabiliteit,Sociabiliteit,Scientist
+0.7483314773547883,Hartelijkheid,Nauwkeurigheid,Sociabiliteit,Structuur,Scientist
+0.9534625892455924,Hartelijkheid,Ordelijkheid,Sociabiliteit,Structuur,Scientist
+0.8436614877321076,Hartelijkheid,Sociaal Ontspannen,Sociabiliteit,Sociabiliteit,Scientist
+0.8233869695926184,Hartelijkheid,Variatiebehoefte,Sociabiliteit,Gedrevenheid,Scientist
+0.6414269805898185,Hartelijkheid,Vertrouwen,Sociabiliteit,Sociabiliteit,Scientist
+-0.7254762501100117,Hartelijkheid,Weloverwogen,Sociabiliteit,Structuur,Scientist
+0.6761234037828133,Hartelijkheid,Zelfonthulling,Sociabiliteit,Sociabiliteit,Scientist
+0.9621404708847278,Hartelijkheid,Zelfvertoon,Sociabiliteit,Invloed,Scientist
+0.8944271909999159,Hartelijkheid,Zelfvertrouwen,Sociabiliteit,Stabiliteit,Scientist
+0.6831300510639732,Incasseringsvermogen,Regelmaat,Stabiliteit,Structuur,Scientist
+-0.7255892438417317,Incasseringsvermogen,Status,Stabiliteit,Invloed,Scientist
+0.6831300510639732,Incasseringsvermogen,Vertrouwen,Stabiliteit,Sociabiliteit,Scientist
+0.8703882797784891,Incasseringsvermogen,Volharding,Stabiliteit,Gedrevenheid,Scientist
+0.9258200997725514,Incasseringsvermogen,Zelfonthulling,Stabiliteit,Sociabiliteit,Scientist
+0.9622504486493763,Incasseringsvermogen,Zorgzaamheid,Stabiliteit,Sociabiliteit,Scientist
+-0.8664002254439636,Nauwkeurigheid,Onafhankelijkheid,Structuur,Gedrevenheid,Scientist
+0.6625413488689131,Nauwkeurigheid,Ordelijkheid,Structuur,Structuur,Scientist
+-0.6625413488689132,Nauwkeurigheid,Originaliteit,Structuur,Gedrevenheid,Scientist
+0.6969320524371696,Nauwkeurigheid,Sociaal Ontspannen,Structuur,Sociabiliteit,Scientist
+0.7026556529496953,Nauwkeurigheid,Status,Structuur,Invloed,Scientist
+-0.6625413488689132,Nauwkeurigheid,Zelfontwikkeling,Structuur,Gedrevenheid,Scientist
+0.8857142857142857,Nauwkeurigheid,Zelfvertoon,Structuur,Invloed,Scientist
+0.9561828874675149,Nauwkeurigheid,Zelfvertrouwen,Structuur,Stabiliteit,Scientist
+-0.6363636363636362,Onafhankelijkheid,Ordelijkheid,Gedrevenheid,Structuur,Scientist
+0.6363636363636364,Onafhankelijkheid,Originaliteit,Gedrevenheid,Gedrevenheid,Scientist
+-0.8043996665398437,Onafhankelijkheid,Sociaal Ontspannen,Gedrevenheid,Sociabiliteit,Scientist
+-0.9618906615929967,Onafhankelijkheid,Status,Gedrevenheid,Invloed,Scientist
+0.8181818181818182,Onafhankelijkheid,Volharding,Gedrevenheid,Gedrevenheid,Scientist
+0.622543017479467,Onafhankelijkheid,Weloverwogen,Gedrevenheid,Structuur,Scientist
+0.6363636363636364,Onafhankelijkheid,Zelfontwikkeling,Gedrevenheid,Gedrevenheid,Scientist
+-0.6625413488689131,Onafhankelijkheid,Zelfvertoon,Gedrevenheid,Invloed,Scientist
+-0.8528028654224417,Onafhankelijkheid,Zelfvertrouwen,Gedrevenheid,Stabiliteit,Scientist
+0.7035264706814485,Onafhankelijkheid,Zorgzaamheid,Gedrevenheid,Sociabiliteit,Scientist
+0.9506541513652699,Ordelijkheid,Sociaal Ontspannen,Structuur,Sociabiliteit,Scientist
+0.9028289727756885,Ordelijkheid,Variatiebehoefte,Structuur,Gedrevenheid,Scientist
+0.6625413488689132,Ordelijkheid,Vertrouwen,Structuur,Sociabiliteit,Scientist
+-0.8992288030258969,Ordelijkheid,Weloverwogen,Structuur,Structuur,Scientist
+0.8664002254439636,Ordelijkheid,Zelfvertoon,Structuur,Invloed,Scientist
+0.8528028654224417,Ordelijkheid,Zelfvertrouwen,Structuur,Stabiliteit,Scientist
+-0.6121122391955434,Originaliteit,Status,Gedrevenheid,Invloed,Scientist
+0.7644707871564383,Originaliteit,Vertrouwen,Gedrevenheid,Sociabiliteit,Scientist
+0.8181818181818182,Originaliteit,Volharding,Gedrevenheid,Gedrevenheid,Scientist
+1.0,Originaliteit,Zelfontwikkeling,Gedrevenheid,Gedrevenheid,Scientist
+0.8451542547285166,Positivisme,Regelmaat,Stabiliteit,Structuur,Scientist
+0.6882472016116852,Positivisme,Weloverwogen,Stabiliteit,Structuur,Scientist
+0.6666666666666666,Positivisme,Zorgzaamheid,Stabiliteit,Sociabiliteit,Scientist
+0.8131571126147262,Regelmaat,Zelfonthulling,Structuur,Sociabiliteit,Scientist
+0.6571428571428571,Regelmaat,Zelfvertoon,Structuur,Invloed,Scientist
+0.6197797868009122,Regelmaat,Zorgzaamheid,Structuur,Sociabiliteit,Scientist
+0.7268509197099723,Sociaal Ontspannen,Status,Sociabiliteit,Invloed,Scientist
+0.7893862224383408,Sociaal Ontspannen,Variatiebehoefte,Sociabiliteit,Gedrevenheid,Scientist
+-0.9459053029269172,Sociaal Ontspannen,Weloverwogen,Sociabiliteit,Structuur,Scientist
+0.7789240586062484,Sociaal Ontspannen,Zelfvertoon,Sociabiliteit,Invloed,Scientist
+0.8574929257125441,Sociaal Ontspannen,Zelfvertrouwen,Sociabiliteit,Stabiliteit,Scientist
+-0.9035942578600877,Status,Volharding,Invloed,Gedrevenheid,Scientist
+-0.5988183149534251,Status,Weloverwogen,Invloed,Structuur,Scientist
+-0.6121122391955434,Status,Zelfontwikkeling,Invloed,Gedrevenheid,Scientist
+0.6835859270246631,Status,Zelfvertrouwen,Invloed,Stabiliteit,Scientist
+-0.8700628401410972,Status,Zorgzaamheid,Invloed,Sociabiliteit,Scientist
+0.9022436386781062,Variatiebehoefte,Vertrouwen,Gedrevenheid,Sociabiliteit,Scientist
+-0.8661541520797734,Variatiebehoefte,Weloverwogen,Gedrevenheid,Structuur,Scientist
+0.6381723297967093,Variatiebehoefte,Zelfvertoon,Gedrevenheid,Invloed,Scientist
+0.6625413488689132,Vertrouwen,Volharding,Sociabiliteit,Gedrevenheid,Scientist
+0.7228063223242011,Vertrouwen,Zelfonthulling,Sociabiliteit,Sociabiliteit,Scientist
+0.7644707871564383,Vertrouwen,Zelfontwikkeling,Sociabiliteit,Gedrevenheid,Scientist
+0.6446583712203042,Volharding,Zelfonthulling,Gedrevenheid,Sociabiliteit,Scientist
+0.8181818181818182,Volharding,Zelfontwikkeling,Gedrevenheid,Gedrevenheid,Scientist
+0.9045340337332909,Volharding,Zorgzaamheid,Gedrevenheid,Sociabiliteit,Scientist
+-0.6488856845230501,Weloverwogen,Zelfvertrouwen,Structuur,Stabiliteit,Scientist
+0.6324555320336759,Zelfonthulling,Zelfvertoon,Sociabiliteit,Invloed,Scientist
+0.8017837257372732,Zelfonthulling,Zorgzaamheid,Sociabiliteit,Sociabiliteit,Scientist
+0.9561828874675149,Zelfvertoon,Zelfvertrouwen,Invloed,Stabiliteit,Scientist
+0.6381985263777971,Conformisme,Frustratietolerantie,Structuur,Stabiliteit,Analist
+-0.6694354011188038,Conformisme,Onafhankelijkheid,Structuur,Gedrevenheid,Analist
+0.7116979094247682,Conformisme,Positivisme,Structuur,Stabiliteit,Analist
+0.5979615332506438,Conformisme,Volharding,Structuur,Gedrevenheid,Analist
+0.6984173839695067,Contactbehoefte,Energie,Sociabiliteit,Gedrevenheid,Analist
+0.7500162314825856,Contactbehoefte,Hartelijkheid,Sociabiliteit,Sociabiliteit,Analist
+0.6969935537404635,Contactbehoefte,Sociaal Ontspannen,Sociabiliteit,Sociabiliteit,Analist
+0.6271086921281467,Contactbehoefte,Variatiebehoefte,Sociabiliteit,Gedrevenheid,Analist
+0.5965792282015832,Dominantie,Sociaal Ontspannen,Invloed,Sociabiliteit,Analist
+0.7717436331412896,Dominantie,Zelfvertoon,Invloed,Invloed,Analist
+0.6522424151090045,Dominantie,Zelfvertrouwen,Invloed,Stabiliteit,Analist
+0.6442157937421678,Energie,Frustratietolerantie,Gedrevenheid,Stabiliteit,Analist
+0.8537932431748061,Energie,Hartelijkheid,Gedrevenheid,Sociabiliteit,Analist
+0.671643709695646,Energie,Ordelijkheid,Gedrevenheid,Structuur,Analist
+0.6355719106076646,Energie,Positivisme,Gedrevenheid,Stabiliteit,Analist
+0.7974348654820818,Energie,Sociaal Ontspannen,Gedrevenheid,Sociabiliteit,Analist
+0.7511732280167166,Energie,Variatiebehoefte,Gedrevenheid,Gedrevenheid,Analist
+0.774816877291387,Energie,Volharding,Gedrevenheid,Gedrevenheid,Analist
+0.6255324015999244,Energie,Zelfontwikkeling,Gedrevenheid,Gedrevenheid,Analist
+0.6095968800811895,Frustratietolerantie,Hartelijkheid,Stabiliteit,Sociabiliteit,Analist
+0.6558460929332065,Frustratietolerantie,Incasseringsvermogen,Stabiliteit,Stabiliteit,Analist
+0.6478071984383648,Frustratietolerantie,Positivisme,Stabiliteit,Stabiliteit,Analist
+0.6616160894337836,Frustratietolerantie,Variatiebehoefte,Stabiliteit,Gedrevenheid,Analist
+0.6167718672126742,Frustratietolerantie,Weloverwogen,Stabiliteit,Structuur,Analist
+0.6617609309146921,Frustratietolerantie,Zelfontwikkeling,Stabiliteit,Gedrevenheid,Analist
+0.6007870417299755,Hartelijkheid,Incasseringsvermogen,Sociabiliteit,Stabiliteit,Analist
+0.7688724852715801,Hartelijkheid,Positivisme,Sociabiliteit,Stabiliteit,Analist
+0.8046532593468381,Hartelijkheid,Sociaal Ontspannen,Sociabiliteit,Sociabiliteit,Analist
+0.5947113949550916,Hartelijkheid,Variatiebehoefte,Sociabiliteit,Gedrevenheid,Analist
+0.6971824677535843,Hartelijkheid,Volharding,Sociabiliteit,Gedrevenheid,Analist
+0.6128386345955843,Hartelijkheid,Zelfvertoon,Sociabiliteit,Invloed,Analist
+0.6165691733270567,Hartelijkheid,Zorgzaamheid,Sociabiliteit,Sociabiliteit,Analist
+0.7222540530701156,Incasseringsvermogen,Zelfvertrouwen,Stabiliteit,Stabiliteit,Analist
+0.6313744455549857,Nauwkeurigheid,Volharding,Structuur,Gedrevenheid,Analist
+0.6427863764906155,Nauwkeurigheid,Weloverwogen,Structuur,Structuur,Analist
+0.6612113586228823,Ordelijkheid,Volharding,Structuur,Gedrevenheid,Analist
+0.6575881982510227,Positivisme,Volharding,Stabiliteit,Gedrevenheid,Analist
+-0.625872206987207,Regelmaat,Variatiebehoefte,Structuur,Gedrevenheid,Analist
+0.730166785737388,Sociaal Ontspannen,Zelfvertoon,Sociabiliteit,Invloed,Analist
+0.6083709680005959,Sociaal Ontspannen,Zelfvertrouwen,Sociabiliteit,Stabiliteit,Analist
+0.6252379775555502,Variatiebehoefte,Volharding,Gedrevenheid,Gedrevenheid,Analist
+0.6931220002090002,Variatiebehoefte,Zelfontwikkeling,Gedrevenheid,Gedrevenheid,Analist
+0.6859782301680784,Volharding,Zelfontwikkeling,Gedrevenheid,Gedrevenheid,Analist
+0.6187714854940427,Competitie,Dominantie,Invloed,Invloed,Engineer
+-0.6319880021746503,Competitie,Frustratietolerantie,Invloed,Stabiliteit,Engineer
+-0.6593641977598278,Competitie,Weloverwogen,Invloed,Structuur,Engineer
+0.656511717428988,Competitie,Zelfonthulling,Invloed,Sociabiliteit,Engineer
+0.6799112396040882,Competitie,Zelfvertoon,Invloed,Invloed,Engineer
+0.7746249613929709,Conformisme,Incasseringsvermogen,Structuur,Stabiliteit,Engineer
+0.7549965058633568,Conformisme,Positivisme,Structuur,Stabiliteit,Engineer
+0.5983211225424633,Conformisme,Volharding,Structuur,Gedrevenheid,Engineer
+0.6697313719566865,Conformisme,Zorgzaamheid,Structuur,Sociabiliteit,Engineer
+0.7032108464077431,Contactbehoefte,Nauwkeurigheid,Sociabiliteit,Structuur,Engineer
+-0.6298581677452549,Contactbehoefte,Onafhankelijkheid,Sociabiliteit,Gedrevenheid,Engineer
+0.8541985556144385,Contactbehoefte,Sociaal Ontspannen,Sociabiliteit,Sociabiliteit,Engineer
+-0.642529405317179,Contactbehoefte,Status,Sociabiliteit,Invloed,Engineer
+0.6128258770283411,Contactbehoefte,Variatiebehoefte,Sociabiliteit,Gedrevenheid,Engineer
+0.6176470588235293,Dominantie,Originaliteit,Invloed,Gedrevenheid,Engineer
+0.7521014330903548,Energie,Variatiebehoefte,Gedrevenheid,Gedrevenheid,Engineer
+0.7567874686642695,Energie,Volharding,Gedrevenheid,Gedrevenheid,Engineer
+0.7740871499169921,Energie,Zelfonthulling,Gedrevenheid,Sociabiliteit,Engineer
+0.6422839308458258,Energie,Zelfontwikkeling,Gedrevenheid,Gedrevenheid,Engineer
+0.7177899988406061,Energie,Zelfvertrouwen,Gedrevenheid,Stabiliteit,Engineer
+0.6886367591802657,Frustratietolerantie,Hartelijkheid,Stabiliteit,Sociabiliteit,Engineer
+0.6411286480138036,Frustratietolerantie,Incasseringsvermogen,Stabiliteit,Stabiliteit,Engineer
+0.6565706694547585,Frustratietolerantie,Positivisme,Stabiliteit,Stabiliteit,Engineer
+0.7004727969157798,Frustratietolerantie,Weloverwogen,Stabiliteit,Structuur,Engineer
+-0.7189377235294248,Frustratietolerantie,Zelfonthulling,Stabiliteit,Sociabiliteit,Engineer
+0.6285393610547089,Incasseringsvermogen,Positivisme,Stabiliteit,Stabiliteit,Engineer
+-0.6346887395316092,Incasseringsvermogen,Zelfvertoon,Stabiliteit,Invloed,Engineer
+0.6968010973504514,Nauwkeurigheid,Ordelijkheid,Structuur,Structuur,Engineer
+0.6283380803113868,Onafhankelijkheid,Positivisme,Gedrevenheid,Stabiliteit,Engineer
+-0.6227454881081048,Originaliteit,Regelmaat,Gedrevenheid,Structuur,Engineer
+0.6327138353044138,Originaliteit,Variatiebehoefte,Gedrevenheid,Gedrevenheid,Engineer
+0.6123724356957945,Positivisme,Volharding,Stabiliteit,Gedrevenheid,Engineer
+0.6467616667635545,Positivisme,Zelfontwikkeling,Stabiliteit,Gedrevenheid,Engineer
+-0.6811865761413326,Regelmaat,Variatiebehoefte,Structuur,Gedrevenheid,Engineer
+0.6642111641550715,Variatiebehoefte,Zelfontwikkeling,Gedrevenheid,Gedrevenheid,Engineer
+0.7426106572325057,Volharding,Zelfontwikkeling,Gedrevenheid,Gedrevenheid,Engineer
+-0.6692860338044767,Weloverwogen,Zelfonthulling,Structuur,Sociabiliteit,Engineer
+-1.0,Competitie,Conformisme,Invloed,Structuur,Product Owner
+1.0,Competitie,Energie,Invloed,Gedrevenheid,Product Owner
+-1.0,Competitie,Frustratietolerantie,Invloed,Stabiliteit,Product Owner
+1.0,Competitie,Incasseringsvermogen,Invloed,Stabiliteit,Product Owner
+1.0,Competitie,Ordelijkheid,Invloed,Structuur,Product Owner
+1.0,Competitie,Originaliteit,Invloed,Gedrevenheid,Product Owner
+-1.0,Competitie,Positivisme,Invloed,Stabiliteit,Product Owner
+-1.0,Competitie,Regelmaat,Invloed,Structuur,Product Owner
+-1.0,Competitie,Sociaal Ontspannen,Invloed,Sociabiliteit,Product Owner
+1.0,Competitie,Status,Invloed,Invloed,Product Owner
+1.0,Competitie,Variatiebehoefte,Invloed,Gedrevenheid,Product Owner
+-1.0,Competitie,Vertrouwen,Invloed,Sociabiliteit,Product Owner
+1.0,Competitie,Volharding,Invloed,Gedrevenheid,Product Owner
+-1.0,Competitie,Zelfonthulling,Invloed,Sociabiliteit,Product Owner
+1.0,Competitie,Zelfontwikkeling,Invloed,Gedrevenheid,Product Owner
+-1.0,Competitie,Zelfvertoon,Invloed,Invloed,Product Owner
+-1.0,Conformisme,Energie,Structuur,Gedrevenheid,Product Owner
+1.0,Conformisme,Frustratietolerantie,Structuur,Stabiliteit,Product Owner
+-1.0,Conformisme,Incasseringsvermogen,Structuur,Stabiliteit,Product Owner
+-1.0,Conformisme,Ordelijkheid,Structuur,Structuur,Product Owner
+-1.0,Conformisme,Originaliteit,Structuur,Gedrevenheid,Product Owner
+1.0,Conformisme,Positivisme,Structuur,Stabiliteit,Product Owner
+1.0,Conformisme,Regelmaat,Structuur,Structuur,Product Owner
+1.0,Conformisme,Sociaal Ontspannen,Structuur,Sociabiliteit,Product Owner
+-1.0,Conformisme,Status,Structuur,Invloed,Product Owner
+-1.0,Conformisme,Variatiebehoefte,Structuur,Gedrevenheid,Product Owner
+1.0,Conformisme,Vertrouwen,Structuur,Sociabiliteit,Product Owner
+-1.0,Conformisme,Volharding,Structuur,Gedrevenheid,Product Owner
+1.0,Conformisme,Zelfonthulling,Structuur,Sociabiliteit,Product Owner
+-1.0,Conformisme,Zelfontwikkeling,Structuur,Gedrevenheid,Product Owner
+1.0,Conformisme,Zelfvertoon,Structuur,Invloed,Product Owner
+-1.0,Energie,Frustratietolerantie,Gedrevenheid,Stabiliteit,Product Owner
+1.0,Energie,Incasseringsvermogen,Gedrevenheid,Stabiliteit,Product Owner
+1.0,Energie,Ordelijkheid,Gedrevenheid,Structuur,Product Owner
+1.0,Energie,Originaliteit,Gedrevenheid,Gedrevenheid,Product Owner
+-1.0,Energie,Positivisme,Gedrevenheid,Stabiliteit,Product Owner
+-1.0,Energie,Regelmaat,Gedrevenheid,Structuur,Product Owner
+-1.0,Energie,Sociaal Ontspannen,Gedrevenheid,Sociabiliteit,Product Owner
+1.0,Energie,Status,Gedrevenheid,Invloed,Product Owner
+1.0,Energie,Variatiebehoefte,Gedrevenheid,Gedrevenheid,Product Owner
+-1.0,Energie,Vertrouwen,Gedrevenheid,Sociabiliteit,Product Owner
+1.0,Energie,Volharding,Gedrevenheid,Gedrevenheid,Product Owner
+-1.0,Energie,Zelfonthulling,Gedrevenheid,Sociabiliteit,Product Owner
+1.0,Energie,Zelfontwikkeling,Gedrevenheid,Gedrevenheid,Product Owner
+-1.0,Energie,Zelfvertoon,Gedrevenheid,Invloed,Product Owner
+-1.0,Frustratietolerantie,Incasseringsvermogen,Stabiliteit,Stabiliteit,Product Owner
+-1.0,Frustratietolerantie,Ordelijkheid,Stabiliteit,Structuur,Product Owner
+-1.0,Frustratietolerantie,Originaliteit,Stabiliteit,Gedrevenheid,Product Owner
+1.0,Frustratietolerantie,Positivisme,Stabiliteit,Stabiliteit,Product Owner
+1.0,Frustratietolerantie,Regelmaat,Stabiliteit,Structuur,Product Owner
+1.0,Frustratietolerantie,Sociaal Ontspannen,Stabiliteit,Sociabiliteit,Product Owner
+-1.0,Frustratietolerantie,Status,Stabiliteit,Invloed,Product Owner
+-1.0,Frustratietolerantie,Variatiebehoefte,Stabiliteit,Gedrevenheid,Product Owner
+1.0,Frustratietolerantie,Vertrouwen,Stabiliteit,Sociabiliteit,Product Owner
+-1.0,Frustratietolerantie,Volharding,Stabiliteit,Gedrevenheid,Product Owner
+1.0,Frustratietolerantie,Zelfonthulling,Stabiliteit,Sociabiliteit,Product Owner
+-1.0,Frustratietolerantie,Zelfontwikkeling,Stabiliteit,Gedrevenheid,Product Owner
+1.0,Frustratietolerantie,Zelfvertoon,Stabiliteit,Invloed,Product Owner
+1.0,Incasseringsvermogen,Ordelijkheid,Stabiliteit,Structuur,Product Owner
+1.0,Incasseringsvermogen,Originaliteit,Stabiliteit,Gedrevenheid,Product Owner
+-1.0,Incasseringsvermogen,Positivisme,Stabiliteit,Stabiliteit,Product Owner
+-1.0,Incasseringsvermogen,Regelmaat,Stabiliteit,Structuur,Product Owner
+-1.0,Incasseringsvermogen,Sociaal Ontspannen,Stabiliteit,Sociabiliteit,Product Owner
+1.0,Incasseringsvermogen,Status,Stabiliteit,Invloed,Product Owner
+1.0,Incasseringsvermogen,Variatiebehoefte,Stabiliteit,Gedrevenheid,Product Owner
+-1.0,Incasseringsvermogen,Vertrouwen,Stabiliteit,Sociabiliteit,Product Owner
+1.0,Incasseringsvermogen,Volharding,Stabiliteit,Gedrevenheid,Product Owner
+-1.0,Incasseringsvermogen,Zelfonthulling,Stabiliteit,Sociabiliteit,Product Owner
+1.0,Incasseringsvermogen,Zelfontwikkeling,Stabiliteit,Gedrevenheid,Product Owner
+-1.0,Incasseringsvermogen,Zelfvertoon,Stabiliteit,Invloed,Product Owner
+1.0,Ordelijkheid,Originaliteit,Structuur,Gedrevenheid,Product Owner
+-1.0,Ordelijkheid,Positivisme,Structuur,Stabiliteit,Product Owner
+-1.0,Ordelijkheid,Regelmaat,Structuur,Structuur,Product Owner
+-1.0,Ordelijkheid,Sociaal Ontspannen,Structuur,Sociabiliteit,Product Owner
+1.0,Ordelijkheid,Status,Structuur,Invloed,Product Owner
+1.0,Ordelijkheid,Variatiebehoefte,Structuur,Gedrevenheid,Product Owner
+-1.0,Ordelijkheid,Vertrouwen,Structuur,Sociabiliteit,Product Owner
+1.0,Ordelijkheid,Volharding,Structuur,Gedrevenheid,Product Owner
+-1.0,Ordelijkheid,Zelfonthulling,Structuur,Sociabiliteit,Product Owner
+1.0,Ordelijkheid,Zelfontwikkeling,Structuur,Gedrevenheid,Product Owner
+-1.0,Ordelijkheid,Zelfvertoon,Structuur,Invloed,Product Owner
+-1.0,Originaliteit,Positivisme,Gedrevenheid,Stabiliteit,Product Owner
+-1.0,Originaliteit,Regelmaat,Gedrevenheid,Structuur,Product Owner
+-1.0,Originaliteit,Sociaal Ontspannen,Gedrevenheid,Sociabiliteit,Product Owner
+1.0,Originaliteit,Status,Gedrevenheid,Invloed,Product Owner
+1.0,Originaliteit,Variatiebehoefte,Gedrevenheid,Gedrevenheid,Product Owner
+-1.0,Originaliteit,Vertrouwen,Gedrevenheid,Sociabiliteit,Product Owner
+1.0,Originaliteit,Volharding,Gedrevenheid,Gedrevenheid,Product Owner
+-1.0,Originaliteit,Zelfonthulling,Gedrevenheid,Sociabiliteit,Product Owner
+1.0,Originaliteit,Zelfontwikkeling,Gedrevenheid,Gedrevenheid,Product Owner
+-1.0,Originaliteit,Zelfvertoon,Gedrevenheid,Invloed,Product Owner
+1.0,Positivisme,Regelmaat,Stabiliteit,Structuur,Product Owner
+1.0,Positivisme,Sociaal Ontspannen,Stabiliteit,Sociabiliteit,Product Owner
+-1.0,Positivisme,Status,Stabiliteit,Invloed,Product Owner
+-1.0,Positivisme,Variatiebehoefte,Stabiliteit,Gedrevenheid,Product Owner
+1.0,Positivisme,Vertrouwen,Stabiliteit,Sociabiliteit,Product Owner
+-1.0,Positivisme,Volharding,Stabiliteit,Gedrevenheid,Product Owner
+1.0,Positivisme,Zelfonthulling,Stabiliteit,Sociabiliteit,Product Owner
+-1.0,Positivisme,Zelfontwikkeling,Stabiliteit,Gedrevenheid,Product Owner
+1.0,Positivisme,Zelfvertoon,Stabiliteit,Invloed,Product Owner
+1.0,Regelmaat,Sociaal Ontspannen,Structuur,Sociabiliteit,Product Owner
+-1.0,Regelmaat,Status,Structuur,Invloed,Product Owner
+-1.0,Regelmaat,Variatiebehoefte,Structuur,Gedrevenheid,Product Owner
+1.0,Regelmaat,Vertrouwen,Structuur,Sociabiliteit,Product Owner
+-1.0,Regelmaat,Volharding,Structuur,Gedrevenheid,Product Owner
+1.0,Regelmaat,Zelfonthulling,Structuur,Sociabiliteit,Product Owner
+-1.0,Regelmaat,Zelfontwikkeling,Structuur,Gedrevenheid,Product Owner
+1.0,Regelmaat,Zelfvertoon,Structuur,Invloed,Product Owner
+-1.0,Sociaal Ontspannen,Status,Sociabiliteit,Invloed,Product Owner
+-1.0,Sociaal Ontspannen,Variatiebehoefte,Sociabiliteit,Gedrevenheid,Product Owner
+1.0,Sociaal Ontspannen,Vertrouwen,Sociabiliteit,Sociabiliteit,Product Owner
+-1.0,Sociaal Ontspannen,Volharding,Sociabiliteit,Gedrevenheid,Product Owner
+1.0,Sociaal Ontspannen,Zelfonthulling,Sociabiliteit,Sociabiliteit,Product Owner
+-1.0,Sociaal Ontspannen,Zelfontwikkeling,Sociabiliteit,Gedrevenheid,Product Owner
+1.0,Sociaal Ontspannen,Zelfvertoon,Sociabiliteit,Invloed,Product Owner
+1.0,Status,Variatiebehoefte,Invloed,Gedrevenheid,Product Owner
+-1.0,Status,Vertrouwen,Invloed,Sociabiliteit,Product Owner
+1.0,Status,Volharding,Invloed,Gedrevenheid,Product Owner
+-1.0,Status,Zelfonthulling,Invloed,Sociabiliteit,Product Owner
+1.0,Status,Zelfontwikkeling,Invloed,Gedrevenheid,Product Owner
+-1.0,Status,Zelfvertoon,Invloed,Invloed,Product Owner
+-1.0,Variatiebehoefte,Vertrouwen,Gedrevenheid,Sociabiliteit,Product Owner
+1.0,Variatiebehoefte,Volharding,Gedrevenheid,Gedrevenheid,Product Owner
+-1.0,Variatiebehoefte,Zelfonthulling,Gedrevenheid,Sociabiliteit,Product Owner
+1.0,Variatiebehoefte,Zelfontwikkeling,Gedrevenheid,Gedrevenheid,Product Owner
+-1.0,Variatiebehoefte,Zelfvertoon,Gedrevenheid,Invloed,Product Owner
+-1.0,Vertrouwen,Volharding,Sociabiliteit,Gedrevenheid,Product Owner
+1.0,Vertrouwen,Zelfonthulling,Sociabiliteit,Sociabiliteit,Product Owner
+-1.0,Vertrouwen,Zelfontwikkeling,Sociabiliteit,Gedrevenheid,Product Owner
+1.0,Vertrouwen,Zelfvertoon,Sociabiliteit,Invloed,Product Owner
+-1.0,Volharding,Zelfonthulling,Gedrevenheid,Sociabiliteit,Product Owner
+1.0,Volharding,Zelfontwikkeling,Gedrevenheid,Gedrevenheid,Product Owner
+-1.0,Volharding,Zelfvertoon,Gedrevenheid,Invloed,Product Owner
+-1.0,Zelfonthulling,Zelfontwikkeling,Sociabiliteit,Gedrevenheid,Product Owner
+1.0,Zelfonthulling,Zelfvertoon,Sociabiliteit,Invloed,Product Owner
+-1.0,Zelfontwikkeling,Zelfvertoon,Gedrevenheid,Invloed,Product Owner

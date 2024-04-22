@@ -1,0 +1,407 @@
+Subcompetentie 1,Subcompetentie 2,Hoofdcompetentie 1,Hoofdcompetentie 2,Analist,Engineer,diff_cor,P_val
+Aansturen van groepen,Aansturen van individuen,Beïnvloedend vermogen,Beïnvloedend vermogen,0.719657261836405,0.3029021706018337,0.4167550912345713,0.27056515800183867
+Aansturen van groepen,Ambitie,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.721595709223176,0.7441583887627758,-0.022562679539599895,0.9520046233297648
+Aansturen van groepen,Assertiviteit,Beïnvloedend vermogen,Relationeel vermogen,0.5353675462337627,0.6931781930305705,-0.15781064679680779,0.6741618360292305
+Aansturen van groepen,Besluitvaardigheid,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.3241374638217315,0.6816532108001349,-0.3575157469784034,0.3434388526310599
+Aansturen van groepen,Coachen van medewerkers,Beïnvloedend vermogen,Beïnvloedend vermogen,0.5067351388557386,0.06922366872166147,0.43751147013407715,0.2478517892098524
+Aansturen van groepen,Delegeren,Beïnvloedend vermogen,Organisatie vermogen,0.4850748252068867,0.5891537685316875,-0.10407894332480083,0.7813994142160303
+Aansturen van groepen,Doorzettingsvermogen,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.8354910767044001,0.6760179007748008,0.1594731759295993,0.6709383226479315
+Aansturen van groepen,Flexibiliteit,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.4539048180927177,0.17604477960137127,0.27786003849134644,0.4603615016583502
+Aansturen van groepen,Initiatief,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.6908869852978853,0.4196682718957517,0.2712187134021336,0.4710672612995279
+Aansturen van groepen,Inzet,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.7934992399812835,0.5840699417645107,0.2094292982167728,0.5772472706058496
+Aansturen van groepen,Klantoriëntatie,Beïnvloedend vermogen,Organisatiegerichtheid,0.6659755687107334,0.024047729137694627,0.6419278395730388,0.09358464096775343
+Aansturen van groepen,Kwaliteitsgerichtheid,Beïnvloedend vermogen,Organisatiegerichtheid,0.5374264549895659,-0.1099773630050708,0.6474038179946366,0.09093252834182852
+Aansturen van groepen,Leerbereidheid,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.4294918810209214,0.24744529826116712,0.18204658275975427,0.6278164352128184
+Aansturen van groepen,Nauwkeurigheid,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.5460871240487727,-0.06421641908264698,0.6103035431314197,0.11019668271306893
+Aansturen van groepen,Onderhandelen,Beïnvloedend vermogen,Beïnvloedend vermogen,0.8122229254370014,0.6754864195360133,0.13673650590098807,0.7155472902155524
+Aansturen van groepen,Ondernemerschap,Beïnvloedend vermogen,Organisatiegerichtheid,0.8449443993577278,0.6543403952919302,0.19060400406579758,0.611799614153413
+Aansturen van groepen,Optreden,Beïnvloedend vermogen,Relationeel vermogen,0.7561228404267764,0.5862304191107197,0.16989242131605664,0.6508820821011385
+Aansturen van groepen,Organisatiesensitiviteit,Beïnvloedend vermogen,Organisatiegerichtheid,0.3530928341356567,-0.1579175214120441,0.5110103555477008,0.17864846039122928
+Aansturen van groepen,Overtuigingskracht,Beïnvloedend vermogen,Beïnvloedend vermogen,0.6734077575073497,0.5703613200457667,0.10304643746158304,0.7835113453600107
+Aansturen van groepen,Plannen en organiseren,Beïnvloedend vermogen,Organisatie vermogen,0.7451466165166022,0.21789396922247242,0.5272526472941298,0.16559633511453953
+Aansturen van groepen,Relatiebeheer,Beïnvloedend vermogen,Relationeel vermogen,0.730502235967101,0.26736579482288747,0.4631364411442135,0.2217748454183328
+Aansturen van groepen,Resultaatgerichtheid,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.7856956789357473,0.6799913929079074,0.10570428602783988,0.7780782848987122
+Aansturen van groepen,Samenwerking,Beïnvloedend vermogen,Relationeel vermogen,0.4955917466877617,-0.12296953520193556,0.6185612818896973,0.10563967262561236
+Aansturen van groepen,Sensitiviteit,Beïnvloedend vermogen,Relationeel vermogen,0.43664665783867773,-0.09781066405449076,0.5344573218931685,0.16005201322424933
+Aansturen van groepen,Sociabiliteit,Beïnvloedend vermogen,Relationeel vermogen,0.6538688421893399,0.06787414554283791,0.5859946966465021,0.12455999949163488
+Aansturen van groepen,Stressbestendigheid,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.7096532496194475,0.37639811819537766,0.3332551314240699,0.3767655605484772
+Aansturen van groepen,Voortgangscontrole,Beïnvloedend vermogen,Organisatie vermogen,0.8155302077905034,0.4447046836344684,0.37082552415603504,0.32601635918542193
+Aansturen van groepen,Zelfstandigheid,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.26239748260556184,0.6241331874711316,-0.3617357048655697,0.3378488206077961
+Aansturen van individuen,Ambitie,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.4517566124411713,0.5964372485900196,-0.14468063614884824,0.6998355148223863
+Aansturen van individuen,Assertiviteit,Beïnvloedend vermogen,Relationeel vermogen,0.5318353062974497,0.11803888915405092,0.41379641714339876,0.2739205760459267
+Aansturen van individuen,Besluitvaardigheid,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.43292110609433204,0.28740341661940544,0.1455176894749266,0.6981876484853857
+Aansturen van individuen,Coachen van medewerkers,Beïnvloedend vermogen,Beïnvloedend vermogen,0.8166560859136704,0.8349586766253055,-0.01830259071163509,0.961058297268224
+Aansturen van individuen,Delegeren,Beïnvloedend vermogen,Organisatie vermogen,0.5569841951432647,0.7114806525606543,-0.1544964574173896,0.6806064161731253
+Aansturen van individuen,Doorzettingsvermogen,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.7177846994435515,0.6399692563485069,0.07781544309504462,0.8356003616749883
+Aansturen van individuen,Flexibiliteit,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.6510655049897621,0.6000942133898896,0.05097129159987257,0.8918535788278306
+Aansturen van individuen,Initiatief,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.8846950128604268,0.6066172390417913,0.2780777738186355,0.46001293662069154
+Aansturen van individuen,Inzet,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.7576593541986956,0.6516783220594821,0.1059810321392135,0.7775132179743491
+Aansturen van individuen,Klantoriëntatie,Beïnvloedend vermogen,Organisatiegerichtheid,0.8130002888953773,0.6215224459560573,0.19147784293932002,0.610174737056643
+Aansturen van individuen,Kwaliteitsgerichtheid,Beïnvloedend vermogen,Organisatiegerichtheid,0.28575358130998396,-0.09980112349251252,0.3855547048024965,0.307447027769856
+Aansturen van individuen,Leerbereidheid,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.27136713707700477,0.6640358075086298,-0.392668670431625,0.2987452273713598
+Aansturen van individuen,Nauwkeurigheid,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.26537213824738326,-0.14971096722351157,0.41508310547089483,0.27245771557983534
+Aansturen van individuen,Onderhandelen,Beïnvloedend vermogen,Beïnvloedend vermogen,0.8254974771361401,0.7044150907870261,0.12108238634911395,0.7468730917190181
+Aansturen van individuen,Ondernemerschap,Beïnvloedend vermogen,Organisatiegerichtheid,0.8637088653795536,0.580641859327498,0.2830670060520556,0.4520682272377232
+Aansturen van individuen,Optreden,Beïnvloedend vermogen,Relationeel vermogen,0.9027179399145048,0.4723433046609841,0.43037463525352065,0.2554991105465618
+Aansturen van individuen,Organisatiesensitiviteit,Beïnvloedend vermogen,Organisatiegerichtheid,0.5136498624589912,0.7151703268251364,-0.20152046436614512,0.5916462907891353
+Aansturen van individuen,Overtuigingskracht,Beïnvloedend vermogen,Beïnvloedend vermogen,0.8600070562846714,0.5959231677187665,0.2640838885659049,0.48272681874109535
+Aansturen van individuen,Plannen en organiseren,Beïnvloedend vermogen,Organisatie vermogen,0.6317421385025455,0.4036065326439797,0.22813560585856574,0.5438926049926862
+Aansturen van individuen,Relatiebeheer,Beïnvloedend vermogen,Relationeel vermogen,0.8528507441296042,0.5874856893465455,0.2653650547830586,0.48062117271073523
+Aansturen van individuen,Resultaatgerichtheid,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.5791845789641757,0.6214999281015902,-0.042315349137414415,0.9101293435942346
+Aansturen van individuen,Samenwerking,Beïnvloedend vermogen,Relationeel vermogen,0.5364916650077038,0.3942745114772004,0.14221715353050346,0.704693801334398
+Aansturen van individuen,Sensitiviteit,Beïnvloedend vermogen,Relationeel vermogen,0.658017125816754,0.6652499587278039,-0.0072328329110499245,0.984605595833427
+Aansturen van individuen,Sociabiliteit,Beïnvloedend vermogen,Relationeel vermogen,0.806934257028809,0.5986498855243276,0.20828437150448142,0.5793210468799632
+Aansturen van individuen,Stressbestendigheid,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.7145640289705343,0.2949169884543026,0.4196470405162317,0.26731395562825355
+Aansturen van individuen,Voortgangscontrole,Beïnvloedend vermogen,Organisatie vermogen,0.6856456058795735,0.44464043117839513,0.24100517470117833,0.5215404759687492
+Aansturen van individuen,Zelfstandigheid,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.25951602587156325,0.07886404099346966,0.18065198487809359,0.6304444145257422
+Ambitie,Assertiviteit,Persoonlijke gerichtheid,Relationeel vermogen,0.18741046608759254,0.5937156487763926,-0.40630518268880006,0.2825488381349197
+Ambitie,Besluitvaardigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,-0.08085413696146321,0.6965024847992665,-0.7773566217607297,0.04425730012868678
+Ambitie,Coachen van medewerkers,Persoonlijke gerichtheid,Beïnvloedend vermogen,0.4076505791795006,0.43316551801877945,-0.025514938839278856,0.9457341101972534
+Ambitie,Delegeren,Persoonlijke gerichtheid,Organisatie vermogen,0.32813549690968946,0.7257958916374521,-0.3976603947277626,0.29274280995201485
+Ambitie,Doorzettingsvermogen,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.7381390075310288,0.7128075553903169,0.025331452140711863,0.9461237324920386
+Ambitie,Flexibiliteit,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.5467410757916156,0.688092393475374,-0.14135131768375842,0.7064043405341929
+Ambitie,Initiatief,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.4077659393845937,0.6962183912204926,-0.28845245183589885,0.44358419104385627
+Ambitie,Inzet,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.6767667909506402,0.654022364626153,0.022744426324487144,0.951618504579826
+Ambitie,Klantoriëntatie,Persoonlijke gerichtheid,Organisatiegerichtheid,0.5773926814302562,0.24846436397044167,0.32892831745981455,0.38292164945342
+Ambitie,Kwaliteitsgerichtheid,Persoonlijke gerichtheid,Organisatiegerichtheid,0.463314832016211,-0.08642163787681394,0.5497364698930249,0.14877978809276016
+Ambitie,Leerbereidheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.7847646853686893,0.6704619967230669,0.11430268864562232,0.7605805897826488
+Ambitie,Nauwkeurigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.43736568982672064,-0.10287396590572807,0.5402396557324487,0.15570914648393863
+Ambitie,Onderhandelen,Persoonlijke gerichtheid,Beïnvloedend vermogen,0.6600682020141884,0.8088442135984375,-0.14877601158424913,0.6917873530621552
+Ambitie,Ondernemerschap,Persoonlijke gerichtheid,Organisatiegerichtheid,0.722522068823588,0.8821303557286592,-0.15960828690507112,0.6706766297702553
+Ambitie,Optreden,Persoonlijke gerichtheid,Relationeel vermogen,0.5120738463099356,0.7614103684317931,-0.24933652212185753,0.5073379052501736
+Ambitie,Organisatiesensitiviteit,Persoonlijke gerichtheid,Organisatiegerichtheid,0.3933708513185123,0.12146158808535489,0.2719092632331574,0.46994745607196275
+Ambitie,Overtuigingskracht,Persoonlijke gerichtheid,Beïnvloedend vermogen,0.39732121179482754,0.8446909240636937,-0.4473697122688662,0.23756559137734734
+Ambitie,Plannen en organiseren,Persoonlijke gerichtheid,Organisatie vermogen,0.6039856112750633,0.41265676873041696,0.19132884254464638,0.6104516572363929
+Ambitie,Relatiebeheer,Persoonlijke gerichtheid,Relationeel vermogen,0.5923190537933435,0.4565344560299952,0.13578459776334828,0.7174385962662333
+Ambitie,Resultaatgerichtheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.9103220886248538,0.940355551603101,-0.030033462978247272,0.9361438317886259
+Ambitie,Samenwerking,Persoonlijke gerichtheid,Relationeel vermogen,0.39091898022578997,-0.023652547421153268,0.4145715276469432,0.27303866808324173
+Ambitie,Sensitiviteit,Persoonlijke gerichtheid,Relationeel vermogen,0.4453146299205661,0.1921595398230607,0.25315509009750536,0.5008999126351763
+Ambitie,Sociabiliteit,Persoonlijke gerichtheid,Relationeel vermogen,0.5065612817581194,0.2915310689632425,0.21503021279487694,0.5671554616935783
+Ambitie,Stressbestendigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.5595947936803801,0.2958363264138053,0.2637584672665748,0.4832624938937897
+Ambitie,Voortgangscontrole,Persoonlijke gerichtheid,Organisatie vermogen,0.58956958501588,0.4927424605630958,0.09682712445278419,0.7962673186196243
+Ambitie,Zelfstandigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,-0.10977940298487178,0.3870611159293505,-0.49684051891422226,0.19067609373533756
+Assertiviteit,Besluitvaardigheid,Relationeel vermogen,Persoonlijke gerichtheid,0.6923832238558459,0.9190332725455373,-0.2266500486896914,0.5465044639443577
+Assertiviteit,Coachen van medewerkers,Relationeel vermogen,Beïnvloedend vermogen,0.07808052391145265,-0.20523655569004964,0.2833170796015023,0.4516721602510718
+Assertiviteit,Delegeren,Relationeel vermogen,Organisatie vermogen,-0.0596866770466699,0.33023220124176295,-0.38991887828843286,0.3020882037277497
+Assertiviteit,Doorzettingsvermogen,Relationeel vermogen,Persoonlijke gerichtheid,0.39389429332411874,0.46083321146646244,-0.0669389181423437,0.8583045090426276
+Assertiviteit,Flexibiliteit,Relationeel vermogen,Persoonlijke gerichtheid,0.2707266422837259,0.26645074078981235,0.004275901493913548,0.9908987623239658
+Assertiviteit,Initiatief,Relationeel vermogen,Persoonlijke gerichtheid,0.4852048376289022,0.5167986805264464,-0.03159384289754419,0.9328341980748129
+Assertiviteit,Inzet,Relationeel vermogen,Persoonlijke gerichtheid,0.349093170368869,0.42690114544797375,-0.07780797507910475,0.8356159041222597
+Assertiviteit,Klantoriëntatie,Relationeel vermogen,Organisatiegerichtheid,0.21535168901738436,-0.19091267345159013,0.40626436246897446,0.2825963756937513
+Assertiviteit,Kwaliteitsgerichtheid,Relationeel vermogen,Organisatiegerichtheid,0.30178010031220254,-0.483226116050662,0.7850062163628646,0.042328090246053884
+Assertiviteit,Leerbereidheid,Relationeel vermogen,Persoonlijke gerichtheid,-0.08957065725930279,0.2082781279859749,-0.2978487852452777,0.429011154865524
+Assertiviteit,Nauwkeurigheid,Relationeel vermogen,Persoonlijke gerichtheid,0.2920444026517256,-0.4073414038082358,0.6993858064599614,0.06876310779579708
+Assertiviteit,Onderhandelen,Relationeel vermogen,Beïnvloedend vermogen,0.6963365705491263,0.6440353181099521,0.05230125243917427,0.8890506121876012
+Assertiviteit,Ondernemerschap,Relationeel vermogen,Organisatiegerichtheid,0.5767989795992176,0.7056481389983598,-0.1288491593991422,0.731272305972718
+Assertiviteit,Optreden,Relationeel vermogen,Relationeel vermogen,0.5704825420106482,0.6517883437268074,-0.0813058017161592,0.8283436659967494
+Assertiviteit,Organisatiesensitiviteit,Relationeel vermogen,Organisatiegerichtheid,-0.28405122668974475,-0.4219307570797098,0.13787953038996503,0.7132786716725286
+Assertiviteit,Overtuigingskracht,Relationeel vermogen,Beïnvloedend vermogen,0.7629197539342937,0.7671129944235141,-0.004193240489220429,0.9910746981696714
+Assertiviteit,Plannen en organiseren,Relationeel vermogen,Organisatie vermogen,0.41256677474409126,-0.054418909379327175,0.46698568412341845,0.2180417031094204
+Assertiviteit,Relatiebeheer,Relationeel vermogen,Relationeel vermogen,0.37588094840041597,0.0558951852977484,0.3199857631026676,0.39584757361167533
+Assertiviteit,Resultaatgerichtheid,Relationeel vermogen,Persoonlijke gerichtheid,0.32297096420095045,0.6187753436282503,-0.2958043794272998,0.43215690916157534
+Assertiviteit,Samenwerking,Relationeel vermogen,Relationeel vermogen,-0.1816842752174566,-0.4069319230681345,0.22524764785067794,0.5489760625470765
+Assertiviteit,Sensitiviteit,Relationeel vermogen,Relationeel vermogen,-0.1197692009388404,-0.38250672778605954,0.2627375268472191,0.4849452472219187
+Assertiviteit,Sociabiliteit,Relationeel vermogen,Relationeel vermogen,0.19309978619527549,-0.132289937046583,0.3253897232418585,0.3880038611680554
+Assertiviteit,Stressbestendigheid,Relationeel vermogen,Persoonlijke gerichtheid,0.41142399819786424,0.27331324792898065,0.1381107502688836,0.7128200790266535
+Assertiviteit,Voortgangscontrole,Relationeel vermogen,Organisatie vermogen,0.4933220573685821,0.22334678847427866,0.26997526889430346,0.4730875209501384
+Assertiviteit,Zelfstandigheid,Relationeel vermogen,Persoonlijke gerichtheid,0.8510052552567435,0.8170939867274353,0.03391126852930826,0.9279210928825183
+Besluitvaardigheid,Coachen van medewerkers,Persoonlijke gerichtheid,Beïnvloedend vermogen,0.1525787285328803,-0.0700924688134781,0.22267119734635837,0.5535317804784334
+Besluitvaardigheid,Delegeren,Persoonlijke gerichtheid,Organisatie vermogen,0.13050711597617531,0.43245867361099904,-0.30195155763482373,0.42274027352883925
+Besluitvaardigheid,Doorzettingsvermogen,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.08314063240393027,0.4447517789274593,-0.36161114652352905,0.33801293952385847
+Besluitvaardigheid,Flexibiliteit,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.1169551804838975,0.38466732034038675,-0.26771213985648923,0.47677724216193407
+Besluitvaardigheid,Initiatief,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.4450293778800282,0.5821661058863153,-0.13713672800628712,0.7147526492925378
+Besluitvaardigheid,Inzet,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.07151609870674008,0.42141304603667556,-0.3498969473299355,0.3536866349822625
+Besluitvaardigheid,Klantoriëntatie,Persoonlijke gerichtheid,Organisatiegerichtheid,0.04161545279256946,-0.1947413100894411,0.23635676288201055,0.5295566446206359
+Besluitvaardigheid,Kwaliteitsgerichtheid,Persoonlijke gerichtheid,Organisatiegerichtheid,-0.18718957397869437,-0.49977509179904217,0.3125855178203478,0.40674988980544224
+Besluitvaardigheid,Leerbereidheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,-0.3696202727017889,0.2328931864069267,-0.6025134591087156,0.11464313431787665
+Besluitvaardigheid,Nauwkeurigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,-0.16480920247076342,-0.4160976050964902,0.25128840262572677,0.504041430998154
+Besluitvaardigheid,Onderhandelen,Persoonlijke gerichtheid,Beïnvloedend vermogen,0.29791372086318746,0.6135359132967186,-0.3156221924335312,0.4022536774369021
+Besluitvaardigheid,Ondernemerschap,Persoonlijke gerichtheid,Organisatiegerichtheid,0.3239927154862377,0.737668530358872,-0.41367581487263433,0.27405797792943964
+Besluitvaardigheid,Optreden,Persoonlijke gerichtheid,Relationeel vermogen,0.4424765773977205,0.6636584906942128,-0.22118191329649228,0.5561739518075761
+Besluitvaardigheid,Organisatiesensitiviteit,Persoonlijke gerichtheid,Organisatiegerichtheid,-0.30889338428488367,-0.24857342139084615,-0.060319962894037515,0.8721827005980944
+Besluitvaardigheid,Overtuigingskracht,Persoonlijke gerichtheid,Beïnvloedend vermogen,0.7079809361585248,0.7882012103109232,-0.08022027415239841,0.830598945251263
+Besluitvaardigheid,Plannen en organiseren,Persoonlijke gerichtheid,Organisatie vermogen,-0.024309346716402412,-0.01642219492795547,-0.007887151788446942,0.983213145456594
+Besluitvaardigheid,Relatiebeheer,Persoonlijke gerichtheid,Relationeel vermogen,0.10232524961488856,0.08293600251017795,0.019389247104710614,0.9587483539808344
+Besluitvaardigheid,Resultaatgerichtheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.03491002933782037,0.6873153532760474,-0.652405323938227,0.08856565009122175
+Besluitvaardigheid,Samenwerking,Persoonlijke gerichtheid,Relationeel vermogen,-0.12784554415875324,-0.40836667015321676,0.28052112599446355,0.45611205234828356
+Besluitvaardigheid,Sensitiviteit,Persoonlijke gerichtheid,Relationeel vermogen,-0.11908126136879543,-0.2871058094124459,0.16802454804365047,0.6544587799814403
+Besluitvaardigheid,Sociabiliteit,Persoonlijke gerichtheid,Relationeel vermogen,0.11422057171710313,-0.1385913688911359,0.252811940608239,0.5014765975298849
+Besluitvaardigheid,Stressbestendigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.18335025092189375,0.20879201608661246,-0.025441765164718716,0.9458894882053941
+Besluitvaardigheid,Voortgangscontrole,Persoonlijke gerichtheid,Organisatie vermogen,0.13807660504065175,0.23348940211026936,-0.09541279706961761,0.7991762353943255
+Besluitvaardigheid,Zelfstandigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.6341008092442829,0.6935303132952043,-0.0594295040509214,0.8740529990478514
+Coachen van medewerkers,Delegeren,Beïnvloedend vermogen,Organisatie vermogen,0.7827668445719598,0.7611941979946314,0.02157264657732838,0.9541081400953351
+Coachen van medewerkers,Doorzettingsvermogen,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.6739518928409866,0.5911383767505988,0.08281351609038778,0.8252137113009423
+Coachen van medewerkers,Flexibiliteit,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.7109101201031341,0.6482120306769337,0.06269808942620048,0.8671914270080703
+Coachen van medewerkers,Initiatief,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.8444493747873582,0.6024161744998722,0.24203320028748598,0.5197764945196992
+Coachen van medewerkers,Inzet,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.7619992252566481,0.6647675092363757,0.09723171602027236,0.7954357169117974
+Coachen van medewerkers,Klantoriëntatie,Beïnvloedend vermogen,Organisatiegerichtheid,0.901321105992008,0.8619722888648731,0.039348817127134894,0.9164047131759561
+Coachen van medewerkers,Kwaliteitsgerichtheid,Beïnvloedend vermogen,Organisatiegerichtheid,0.1916691723908308,0.28909057437555913,-0.09742140198472832,0.7950459179197122
+Coachen van medewerkers,Leerbereidheid,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.39538000666806133,0.6382604261776643,-0.24288041950960298,0.5183251774023492
+Coachen van medewerkers,Nauwkeurigheid,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.15779723688242145,0.20016107950615378,-0.04236384262373233,0.9100268085081498
+Coachen van medewerkers,Onderhandelen,Beïnvloedend vermogen,Beïnvloedend vermogen,0.608185568848066,0.5691344274700408,0.03905114137802512,0.9170347206250835
+Coachen van medewerkers,Ondernemerschap,Beïnvloedend vermogen,Organisatiegerichtheid,0.7265313278238411,0.4730214454865797,0.2535098823372614,0.5003040475862557
+Coachen van medewerkers,Optreden,Beïnvloedend vermogen,Relationeel vermogen,0.8037339013543187,0.4486032729693732,0.35513062838494547,0.34662548673526117
+Coachen van medewerkers,Organisatiesensitiviteit,Beïnvloedend vermogen,Organisatiegerichtheid,0.7725300756190506,0.8768839903227595,-0.10435391470370892,0.7808372592490456
+Coachen van medewerkers,Overtuigingskracht,Beïnvloedend vermogen,Beïnvloedend vermogen,0.6364608341334086,0.40069078226571336,0.23577005186769523,0.5305730583496866
+Coachen van medewerkers,Plannen en organiseren,Beïnvloedend vermogen,Organisatie vermogen,0.5473738649404261,0.5842364260775552,-0.03686256113712916,0.9216683242166361
+Coachen van medewerkers,Relatiebeheer,Beïnvloedend vermogen,Relationeel vermogen,0.7928423402007644,0.8249945750767665,-0.03215223487600216,0.9316501158987931
+Coachen van medewerkers,Resultaatgerichtheid,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.561246850866179,0.5243035081164289,0.036943342749750085,0.9214972451437269
+Coachen van medewerkers,Samenwerking,Beïnvloedend vermogen,Relationeel vermogen,0.8032022574869472,0.7564497615195411,0.04675249596740605,0.900754097928121
+Coachen van medewerkers,Sensitiviteit,Beïnvloedend vermogen,Relationeel vermogen,0.9092295226914042,0.912784034095604,-0.0035545114041998227,0.9924341850274345
+Coachen van medewerkers,Sociabiliteit,Beïnvloedend vermogen,Relationeel vermogen,0.9313656133377313,0.8775945376360083,0.053771075701723015,0.885954563949046
+Coachen van medewerkers,Stressbestendigheid,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.654037183808722,0.2874882686789247,0.3665489151297973,0.33154786420418336
+Coachen van medewerkers,Voortgangscontrole,Beïnvloedend vermogen,Organisatie vermogen,0.5454823958012479,0.5323864573107787,0.013095938490469194,0.9721306431672476
+Coachen van medewerkers,Zelfstandigheid,Beïnvloedend vermogen,Persoonlijke gerichtheid,-0.14771824552366955,-0.25250829895066174,0.10479005342699219,0.7799458572077045
+Delegeren,Doorzettingsvermogen,Organisatie vermogen,Persoonlijke gerichtheid,0.5331033320129633,0.800284930016067,-0.2671815980031037,0.4776445940866516
+Delegeren,Flexibiliteit,Organisatie vermogen,Persoonlijke gerichtheid,0.5672418121687006,0.6885510418436357,-0.12130922967493507,0.7464158642045757
+Delegeren,Initiatief,Organisatie vermogen,Persoonlijke gerichtheid,0.6676178721369266,0.8572862372808097,-0.18966836514388308,0.6135416212406208
+Delegeren,Inzet,Organisatie vermogen,Persoonlijke gerichtheid,0.6150361194888218,0.8759234584896555,-0.2608873390008337,0.4880032301193271
+Delegeren,Klantoriëntatie,Organisatie vermogen,Organisatiegerichtheid,0.7094840169318474,0.5968544555356048,0.11262956139624258,0.7639757069365367
+Delegeren,Kwaliteitsgerichtheid,Organisatie vermogen,Organisatiegerichtheid,0.03126586830460406,0.21782298739282896,-0.1865571190882249,0.6193506221118521
+Delegeren,Leerbereidheid,Organisatie vermogen,Persoonlijke gerichtheid,0.3967013675627691,0.5220244938794177,-0.12532312631664866,0.7383409803004262
+Delegeren,Nauwkeurigheid,Organisatie vermogen,Persoonlijke gerichtheid,-0.007234645507789177,0.1877869529862608,-0.19502159849404999,0.6036058451313089
+Delegeren,Onderhandelen,Organisatie vermogen,Beïnvloedend vermogen,0.3532243364203394,0.8110310397089032,-0.4578067032885638,0.22702250000405577
+Delegeren,Ondernemerschap,Organisatie vermogen,Organisatiegerichtheid,0.510857468911197,0.8161225391560559,-0.30526507024485894,0.41771689714358673
+Delegeren,Optreden,Organisatie vermogen,Relationeel vermogen,0.6669666754057642,0.8511621777094154,-0.18419550230365123,0.6237766560446518
+Delegeren,Organisatiesensitiviteit,Organisatie vermogen,Organisatiegerichtheid,0.7391685373313023,0.5159017416974034,0.22326679563389884,0.5524769174008488
+Delegeren,Overtuigingskracht,Organisatie vermogen,Beïnvloedend vermogen,0.4732710040156928,0.6885621629665056,-0.21529115895081286,0.5666874455696664
+Delegeren,Plannen en organiseren,Organisatie vermogen,Organisatie vermogen,0.30031423586625516,0.6359275846261379,-0.3356133487598827,0.37343734076171176
+Delegeren,Relatiebeheer,Organisatie vermogen,Relationeel vermogen,0.5440041151608491,0.8964310534555257,-0.35242693829467653,0.35026145377456896
+Delegeren,Resultaatgerichtheid,Organisatie vermogen,Persoonlijke gerichtheid,0.3866206555951495,0.8525401402189735,-0.465919484623824,0.21907098928699287
+Delegeren,Samenwerking,Organisatie vermogen,Relationeel vermogen,0.9195637873916427,0.4990151782438251,0.4205486091478176,0.26630614911335604
+Delegeren,Sensitiviteit,Organisatie vermogen,Relationeel vermogen,0.8287365236199775,0.5500674538200705,0.278669069799907,0.45906712991305154
+Delegeren,Sociabiliteit,Organisatie vermogen,Relationeel vermogen,0.7577436985715107,0.6970683160426222,0.06067538252888849,0.8714363934470348
+Delegeren,Stressbestendigheid,Organisatie vermogen,Persoonlijke gerichtheid,0.6761463030863186,0.2869655033458189,0.38918079974049974,0.3029899104964424
+Delegeren,Voortgangscontrole,Organisatie vermogen,Organisatie vermogen,0.30157417836379224,0.7508795674566145,-0.4493053890928223,0.23558340223139185
+Delegeren,Zelfstandigheid,Organisatie vermogen,Persoonlijke gerichtheid,-0.281562155103598,0.10368597649722489,-0.3852481316008229,0.3078259294812442
+Doorzettingsvermogen,Flexibiliteit,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.6922350660250548,0.6334760764245649,0.058758989600489864,0.8754618175312578
+Doorzettingsvermogen,Initiatief,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.7178092755692743,0.7509522049729623,-0.033142929403688015,0.9295497174596288
+Doorzettingsvermogen,Inzet,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.9707895710353132,0.9701504841130152,0.0006390869222979711,0.998639676144883
+Doorzettingsvermogen,Klantoriëntatie,Persoonlijke gerichtheid,Organisatiegerichtheid,0.8819904779280026,0.6795355333558616,0.20245494457214097,0.5899359999416665
+Doorzettingsvermogen,Kwaliteitsgerichtheid,Persoonlijke gerichtheid,Organisatiegerichtheid,0.6610743227828565,0.1419112322938511,0.5191630904890054,0.17200028897790398
+Doorzettingsvermogen,Leerbereidheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.6767556945769092,0.761689375454879,-0.08493368087796982,0.8208172516139394
+Doorzettingsvermogen,Nauwkeurigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.6417062574974036,0.13510444940426036,0.5066018080931433,0.18232570691979455
+Doorzettingsvermogen,Onderhandelen,Persoonlijke gerichtheid,Beïnvloedend vermogen,0.8922179872353134,0.9112444622393057,-0.019026475003992238,0.9595194720231035
+Doorzettingsvermogen,Ondernemerschap,Persoonlijke gerichtheid,Organisatiegerichtheid,0.8875075329914858,0.8328027606548575,0.05470477233662829,0.8839887583571728
+Doorzettingsvermogen,Optreden,Persoonlijke gerichtheid,Relationeel vermogen,0.7604146580620348,0.6702209412510413,0.09019371681099353,0.8099354814554509
+Doorzettingsvermogen,Organisatiesensitiviteit,Persoonlijke gerichtheid,Organisatiegerichtheid,0.6327767353969254,0.46599017304318746,0.1667865623537379,0.6568339184154239
+Doorzettingsvermogen,Overtuigingskracht,Persoonlijke gerichtheid,Beïnvloedend vermogen,0.6270972465244214,0.6472650543395374,-0.020167807815115957,0.9570935616870362
+Doorzettingsvermogen,Plannen en organiseren,Persoonlijke gerichtheid,Organisatie vermogen,0.8985904999303385,0.5928867326796928,0.30570376725064563,0.4170545845778051
+Doorzettingsvermogen,Relatiebeheer,Persoonlijke gerichtheid,Relationeel vermogen,0.7602816019398221,0.656805338606776,0.10347626333304605,0.7826319578805356
+Doorzettingsvermogen,Resultaatgerichtheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.9031343378744998,0.7601136754522302,0.14302066242226963,0.7031077889561619
+Doorzettingsvermogen,Samenwerking,Persoonlijke gerichtheid,Relationeel vermogen,0.6220055017983509,0.488429586429262,0.13357591536908892,0.7218338923619969
+Doorzettingsvermogen,Sensitiviteit,Persoonlijke gerichtheid,Relationeel vermogen,0.7063969649935035,0.5386349744811697,0.16776199051233376,0.6549622058153193
+Doorzettingsvermogen,Sociabiliteit,Persoonlijke gerichtheid,Relationeel vermogen,0.8032806070530427,0.6882549153313614,0.11502569172168131,0.7591149535746102
+Doorzettingsvermogen,Stressbestendigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.863359177550658,0.6866220890913582,0.1767370884592998,0.6378476986550035
+Doorzettingsvermogen,Voortgangscontrole,Persoonlijke gerichtheid,Organisatie vermogen,0.8959090751473583,0.746454611188539,0.14945446395881934,0.6904575436205214
+Doorzettingsvermogen,Zelfstandigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.17646172317370296,0.5211085394870865,-0.3446468163133835,0.3608647433722254
+Flexibiliteit,Initiatief,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.6965408459867692,0.8540103333766524,-0.1574694873898832,0.6748240932409257
+Flexibiliteit,Inzet,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.7285331533309515,0.6957449647956145,0.03278818853533694,0.9303017551157682
+Flexibiliteit,Klantoriëntatie,Persoonlijke gerichtheid,Organisatiegerichtheid,0.7613894438114931,0.5088339437337112,0.25255550007778194,0.5019078020945522
+Flexibiliteit,Kwaliteitsgerichtheid,Persoonlijke gerichtheid,Organisatiegerichtheid,0.16107644623948547,0.16680246631394968,-0.005726020074464211,0.9878124102821619
+Flexibiliteit,Leerbereidheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.6671112918223702,0.8045953520197119,-0.13748406019734172,0.7140632829674916
+Flexibiliteit,Nauwkeurigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.09778530277595658,0.10028162023372052,-0.0024963174577639358,0.9946865198348602
+Flexibiliteit,Onderhandelen,Persoonlijke gerichtheid,Beïnvloedend vermogen,0.6950740208974997,0.6805176519216767,0.01455636897582302,0.9690242630491306
+Flexibiliteit,Ondernemerschap,Persoonlijke gerichtheid,Organisatiegerichtheid,0.7759406854468877,0.812739083985417,-0.0367983985385294,0.9218042102867343
+Flexibiliteit,Optreden,Persoonlijke gerichtheid,Relationeel vermogen,0.6867650696300537,0.7221880137747099,-0.03542294414465619,0.9247177683432624
+Flexibiliteit,Organisatiesensitiviteit,Persoonlijke gerichtheid,Organisatiegerichtheid,0.5826415523410539,0.4815862088721918,0.10105534346886208,0.7875887080322765
+Flexibiliteit,Overtuigingskracht,Persoonlijke gerichtheid,Beïnvloedend vermogen,0.6584586834314143,0.6982587794118672,-0.039800095980452865,0.9154497214937025
+Flexibiliteit,Plannen en organiseren,Persoonlijke gerichtheid,Organisatie vermogen,0.518229700031575,0.63607935878498,-0.11784965875340503,0.7533990490603752
+Flexibiliteit,Relatiebeheer,Persoonlijke gerichtheid,Relationeel vermogen,0.6447573004628551,0.6467844388520438,-0.002027138389188776,0.9956851690016468
+Flexibiliteit,Resultaatgerichtheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.6133690888086961,0.7897506088634394,-0.17638152005474328,0.6385219864323637
+Flexibiliteit,Samenwerking,Persoonlijke gerichtheid,Relationeel vermogen,0.535357301467961,0.3227104892450591,0.21264681222290194,0.571439105182272
+Flexibiliteit,Sensitiviteit,Persoonlijke gerichtheid,Relationeel vermogen,0.7446203999338851,0.4850787835516305,0.2595416163822546,0.4902342445057637
+Flexibiliteit,Sociabiliteit,Persoonlijke gerichtheid,Relationeel vermogen,0.6921159309419914,0.560239587478804,0.13187634346318744,0.72522260741372
+Flexibiliteit,Stressbestendigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.745042409837196,0.1630864871327009,0.5819559227044951,0.1270881605598282
+Flexibiliteit,Voortgangscontrole,Persoonlijke gerichtheid,Organisatie vermogen,0.4575740225960073,0.5891749831000743,-0.131600960504067,0.7257722152847572
+Flexibiliteit,Zelfstandigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.002929006847226413,0.036041186041450526,-0.033112179194224114,0.929614904186711
+Initiatief,Inzet,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.8101958481698874,0.8512339714274114,-0.041038123257523984,0.9128304796557043
+Initiatief,Klantoriëntatie,Persoonlijke gerichtheid,Organisatiegerichtheid,0.8438019048139704,0.5011474870089081,0.34265441780506234,0.36361362294096455
+Initiatief,Kwaliteitsgerichtheid,Persoonlijke gerichtheid,Organisatiegerichtheid,0.17688762432830774,0.1595820038386343,0.017305620489673434,0.9631778924697696
+Initiatief,Leerbereidheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.2522274067011175,0.6423230689775559,-0.3900956622764384,0.30187250480707406
+Initiatief,Nauwkeurigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.1757089868763391,0.15898756036581285,0.016721426510526244,0.9644200375995888
+Initiatief,Onderhandelen,Persoonlijke gerichtheid,Beïnvloedend vermogen,0.7618923181633027,0.8159272376250026,-0.054034919461699915,0.8853989922152172
+Initiatief,Ondernemerschap,Persoonlijke gerichtheid,Organisatiegerichtheid,0.8778134789881127,0.9201370820689212,-0.042323603080808514,0.9101118912677884
+Initiatief,Optreden,Persoonlijke gerichtheid,Relationeel vermogen,0.9307641813785645,0.9234487508752011,0.007315430503363474,0.9844298178137272
+Initiatief,Organisatiesensitiviteit,Persoonlijke gerichtheid,Organisatiegerichtheid,0.4891598970277385,0.4023557811812532,0.08680411584648529,0.8169435133469749
+Initiatief,Overtuigingskracht,Persoonlijke gerichtheid,Beïnvloedend vermogen,0.8513347096519598,0.8013948924630653,0.04993981718889451,0.8940284429191863
+Initiatief,Plannen en organiseren,Persoonlijke gerichtheid,Organisatie vermogen,0.5900835878311372,0.6716412880689495,-0.08155770023781228,0.8278205350977337
+Initiatief,Relatiebeheer,Persoonlijke gerichtheid,Relationeel vermogen,0.8733449980769392,0.7949376784476603,0.07840731962927894,0.8343687610339656
+Initiatief,Resultaatgerichtheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.5973969869683388,0.878510761137511,-0.28111377416917227,0.4551688083016394
+Initiatief,Samenwerking,Persoonlijke gerichtheid,Relationeel vermogen,0.6567013369006749,0.37107529283227453,0.28562604406840036,0.44802491475135886
+Initiatief,Sensitiviteit,Persoonlijke gerichtheid,Relationeel vermogen,0.6993085686952704,0.39457260253452753,0.30473596616074283,0.41851656032243545
+Initiatief,Sociabiliteit,Persoonlijke gerichtheid,Relationeel vermogen,0.9016147718788586,0.6088639441457749,0.2927508277330837,0.43688135501433556
+Initiatief,Stressbestendigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.7024504904778779,0.22613726921701247,0.4763132212608654,0.20919150720524216
+Initiatief,Voortgangscontrole,Persoonlijke gerichtheid,Organisatie vermogen,0.6591061343129696,0.7880270455395412,-0.12892091122657157,0.7311287090243788
+Initiatief,Zelfstandigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.1567134584235778,0.23042763832880936,-0.07371417990523155,0.8441458426632256
+Inzet,Klantoriëntatie,Persoonlijke gerichtheid,Organisatiegerichtheid,0.9403572528352006,0.7201297285329955,0.22022752430220505,0.5578705269011763
+Inzet,Kwaliteitsgerichtheid,Persoonlijke gerichtheid,Organisatiegerichtheid,0.5901439589334434,0.20910430344516936,0.381039655488274,0.31305992503689106
+Inzet,Leerbereidheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.6510932464225202,0.7114227720423368,-0.06032952561981664,0.8721626193079977
+Inzet,Nauwkeurigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.5784630319729688,0.1978442438449207,0.38061878812804806,0.313586696780618
+Inzet,Onderhandelen,Persoonlijke gerichtheid,Beïnvloedend vermogen,0.864032184130724,0.9016220855989586,-0.0375899014682346,0.9201281023219061
+Inzet,Ondernemerschap,Persoonlijke gerichtheid,Organisatiegerichtheid,0.8953644379604045,0.8497730386313829,0.045591399329021676,0.9032060382193383
+Inzet,Optreden,Persoonlijke gerichtheid,Relationeel vermogen,0.8095058556490988,0.7587404474952851,0.050765408153813696,0.8922876168143941
+Inzet,Organisatiesensitiviteit,Persoonlijke gerichtheid,Organisatiegerichtheid,0.7000099611290908,0.5301357031911875,0.16987425793790323,0.6509168220343606
+Inzet,Overtuigingskracht,Persoonlijke gerichtheid,Beïnvloedend vermogen,0.6371515687967496,0.6605834678538908,-0.02343189905714116,0.9501580855530092
+Inzet,Plannen en organiseren,Persoonlijke gerichtheid,Organisatie vermogen,0.8771936142759248,0.6592990338488346,0.2178945804270902,0.5620287391744201
+Inzet,Relatiebeheer,Persoonlijke gerichtheid,Relationeel vermogen,0.8284094947032009,0.7901042007191491,0.0383052939840518,0.9186134864704667
+Inzet,Resultaatgerichtheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.865570974293396,0.7759941588096201,0.08957681548377594,0.8112097648533245
+Inzet,Samenwerking,Persoonlijke gerichtheid,Relationeel vermogen,0.7196503583157624,0.5763452967697044,0.14330506154605804,0.7025467483138881
+Inzet,Sensitiviteit,Persoonlijke gerichtheid,Relationeel vermogen,0.7932256774327002,0.5835495202773164,0.2096761571553838,0.5768006204957716
+Inzet,Sociabiliteit,Persoonlijke gerichtheid,Relationeel vermogen,0.8913453218266902,0.76499955982253,0.12634576200416026,0.7362884800028819
+Inzet,Stressbestendigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.8662426440586078,0.5863488387938289,0.2798938052647789,0.4571117303925365
+Inzet,Voortgangscontrole,Persoonlijke gerichtheid,Organisatie vermogen,0.8792354633359465,0.8121013070990826,0.06713415623686392,0.8578958175298115
+Inzet,Zelfstandigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.08771524712146189,0.401017853952955,-0.3133026068314931,0.40568532535245305
+Klantoriëntatie,Kwaliteitsgerichtheid,Organisatiegerichtheid,Organisatiegerichtheid,0.4643817511026144,0.36542922670111433,0.0989525244015001,0.7919014721002706
+Klantoriëntatie,Leerbereidheid,Organisatiegerichtheid,Persoonlijke gerichtheid,0.5814919719994229,0.6816135642454505,-0.10012159224602757,0.7895029486446141
+Klantoriëntatie,Nauwkeurigheid,Organisatiegerichtheid,Persoonlijke gerichtheid,0.43855785475731374,0.30628165517499845,0.1322761995823153,0.724424839888322
+Klantoriëntatie,Onderhandelen,Organisatiegerichtheid,Beïnvloedend vermogen,0.7918744610964032,0.5517076657790161,0.24016679531738716,0.5229814235299204
+Klantoriëntatie,Ondernemerschap,Organisatiegerichtheid,Organisatiegerichtheid,0.8541840939302682,0.39306345205298326,0.4611206418772849,0.22374882914327432
+Klantoriëntatie,Optreden,Organisatiegerichtheid,Relationeel vermogen,0.8476482564730162,0.29437046231503966,0.5532777941579765,0.14625966537421853
+Klantoriëntatie,Organisatiesensitiviteit,Organisatiegerichtheid,Organisatiegerichtheid,0.795109189763123,0.8475818285385206,-0.05247263877539765,0.8886895105096244
+Klantoriëntatie,Overtuigingskracht,Organisatiegerichtheid,Beïnvloedend vermogen,0.6322072379370648,0.2540211421131311,0.3781860958239337,0.31664347168812346
+Klantoriëntatie,Plannen en organiseren,Organisatiegerichtheid,Organisatie vermogen,0.7801454165560223,0.5558600367233101,0.22428537983271224,0.5506752959821921
+Klantoriëntatie,Relatiebeheer,Organisatiegerichtheid,Relationeel vermogen,0.8752090533936435,0.7314174160825545,0.14379163731108902,0.7015872618092787
+Klantoriëntatie,Resultaatgerichtheid,Organisatiegerichtheid,Persoonlijke gerichtheid,0.7559788720647311,0.34045480661002553,0.4155240654547056,0.271957666830557
+Klantoriëntatie,Samenwerking,Organisatiegerichtheid,Relationeel vermogen,0.8089689006371581,0.9140934462787598,-0.10512454564160167,0.7792624100153285
+Klantoriëntatie,Sensitiviteit,Organisatiegerichtheid,Relationeel vermogen,0.9139268785014953,0.9529279534530256,-0.03900107495153027,0.917140687660934
+Klantoriëntatie,Sociabiliteit,Organisatiegerichtheid,Relationeel vermogen,0.9713054637541512,0.9774889998026156,-0.006183536048464444,0.9868386958856707
+Klantoriëntatie,Stressbestendigheid,Organisatiegerichtheid,Persoonlijke gerichtheid,0.8343591648239393,0.6146503540676439,0.21970881075629545,0.5587937230012314
+Klantoriëntatie,Voortgangscontrole,Organisatiegerichtheid,Organisatie vermogen,0.7604330399820171,0.5512133687525935,0.20921967122942353,0.577626689282186
+Klantoriëntatie,Zelfstandigheid,Organisatiegerichtheid,Persoonlijke gerichtheid,-0.030406636783690863,-0.017779687436046635,-0.012626949347644228,0.9731282934190411
+Kwaliteitsgerichtheid,Leerbereidheid,Organisatiegerichtheid,Persoonlijke gerichtheid,0.41286252105030924,0.14980746787950622,0.263055053170803,0.48442153311839364
+Kwaliteitsgerichtheid,Nauwkeurigheid,Organisatiegerichtheid,Persoonlijke gerichtheid,0.9849206507095575,0.9802044690011353,0.00471618170842214,0.9899616770518116
+Kwaliteitsgerichtheid,Onderhandelen,Organisatiegerichtheid,Beïnvloedend vermogen,0.6163216379691374,-0.12631101644863027,0.7426326544177677,0.05402060059829061
+Kwaliteitsgerichtheid,Ondernemerschap,Organisatiegerichtheid,Organisatiegerichtheid,0.4306316654621362,-0.02980220567239883,0.46043387113453504,0.22442434260714705
+Kwaliteitsgerichtheid,Optreden,Organisatiegerichtheid,Relationeel vermogen,0.30162490673227815,0.06515516900816934,0.2364697377241088,0.5293610466586698
+Kwaliteitsgerichtheid,Organisatiesensitiviteit,Organisatiegerichtheid,Organisatiegerichtheid,0.2951666225539331,0.356870900641013,-0.0617042780870799,0.8692766036396671
+Kwaliteitsgerichtheid,Overtuigingskracht,Organisatiegerichtheid,Beïnvloedend vermogen,0.15374935698041292,-0.3482082488113542,0.5019576057917672,0.1862626481664862
+Kwaliteitsgerichtheid,Plannen en organiseren,Organisatiegerichtheid,Organisatie vermogen,0.8599390116014152,0.7876861602288326,0.07225285137258253,0.847195392525101
+Kwaliteitsgerichtheid,Relatiebeheer,Organisatiegerichtheid,Relationeel vermogen,0.3819992518423587,0.4766056114751132,-0.09460635963275449,0.8008361821309449
+Kwaliteitsgerichtheid,Resultaatgerichtheid,Organisatiegerichtheid,Persoonlijke gerichtheid,0.619508129175759,0.02368632042005669,0.5958218087557023,0.11857939696061015
+Kwaliteitsgerichtheid,Samenwerking,Organisatiegerichtheid,Relationeel vermogen,0.181080132591384,0.6160588279485899,-0.4349786953572059,0.25054635548419957
+Kwaliteitsgerichtheid,Sensitiviteit,Organisatiegerichtheid,Relationeel vermogen,0.24436036081173995,0.35246452022946007,-0.10810415941772011,0.7731822752585025
+Kwaliteitsgerichtheid,Sociabiliteit,Organisatiegerichtheid,Relationeel vermogen,0.3478070973209745,0.43507548290049886,-0.08726838557952438,0.8159827130920296
+Kwaliteitsgerichtheid,Stressbestendigheid,Organisatiegerichtheid,Persoonlijke gerichtheid,0.4656800555773728,-0.13274470414158152,0.5984247597189543,0.11703528604452806
+Kwaliteitsgerichtheid,Voortgangscontrole,Organisatiegerichtheid,Organisatie vermogen,0.7972412328049581,0.6276254767839107,0.1696157560210474,0.6514113279615001
+Kwaliteitsgerichtheid,Zelfstandigheid,Organisatiegerichtheid,Persoonlijke gerichtheid,0.3520283224990351,-0.5078968722032712,0.8599251947023063,0.027028543135317884
+Leerbereidheid,Nauwkeurigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.3776160465350773,0.0953699391461782,0.2822461073888991,0.45336980883050404
+Leerbereidheid,Onderhandelen,Persoonlijke gerichtheid,Beïnvloedend vermogen,0.48325215468762633,0.7314627516937602,-0.24821059700613385,0.5092448139242163
+Leerbereidheid,Ondernemerschap,Persoonlijke gerichtheid,Organisatiegerichtheid,0.5320887045631335,0.707526962916392,-0.17543825835325855,0.6403122680949036
+Leerbereidheid,Optreden,Persoonlijke gerichtheid,Relationeel vermogen,0.32028451558226995,0.46438229602042513,-0.1440977804381552,0.7009838278220544
+Leerbereidheid,Organisatiesensitiviteit,Persoonlijke gerichtheid,Organisatiegerichtheid,0.6246420667968385,0.5401046306928275,0.08453743610401099,0.8216384787664801
+Leerbereidheid,Overtuigingskracht,Persoonlijke gerichtheid,Beïnvloedend vermogen,0.15880875040029502,0.5933288161630254,-0.43452006576273033,0.25103655823556803
+Leerbereidheid,Plannen en organiseren,Persoonlijke gerichtheid,Organisatie vermogen,0.5214429367947451,0.5978142800376686,-0.0763713432429235,0.8386070646760795
+Leerbereidheid,Relatiebeheer,Persoonlijke gerichtheid,Relationeel vermogen,0.39477812403805235,0.4787400451695785,-0.08396192113152617,0.8228316113616037
+Leerbereidheid,Resultaatgerichtheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.7356190653035453,0.660676092824594,0.07494297247895121,0.8415834421282364
+Leerbereidheid,Samenwerking,Persoonlijke gerichtheid,Relationeel vermogen,0.4941848942536139,0.41132919364013626,0.08285570061347763,0.8251261793901501
+Leerbereidheid,Sensitiviteit,Persoonlijke gerichtheid,Relationeel vermogen,0.6128360834005935,0.6052657652937229,0.007570318106870588,0.9838873900924223
+Leerbereidheid,Sociabiliteit,Persoonlijke gerichtheid,Relationeel vermogen,0.4511299093965265,0.6372993023057357,-0.18616939290920925,0.6200762984746309
+Leerbereidheid,Stressbestendigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.6176236276001731,0.5092901675796851,0.10833346002048794,0.7727149659901318
+Leerbereidheid,Voortgangscontrole,Persoonlijke gerichtheid,Organisatie vermogen,0.4552063922526398,0.5591660136548533,-0.10395962140221349,0.7816433946136585
+Leerbereidheid,Zelfstandigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,-0.2792017919876958,0.27030662734491434,-0.5495084193326101,0.14894325613489579
+Nauwkeurigheid,Onderhandelen,Persoonlijke gerichtheid,Beïnvloedend vermogen,0.5817054171373565,-0.15052723477687224,0.7322326519142287,0.057289009243688405
+Nauwkeurigheid,Ondernemerschap,Persoonlijke gerichtheid,Organisatiegerichtheid,0.41565633670387014,-0.03286910452590798,0.4485254412297781,0.2363806161444486
+Nauwkeurigheid,Optreden,Persoonlijke gerichtheid,Relationeel vermogen,0.2768064414756604,0.055301207122935944,0.22150523435272446,0.5555997950441607
+Nauwkeurigheid,Organisatiesensitiviteit,Persoonlijke gerichtheid,Organisatiegerichtheid,0.2633475922856662,0.3085217595635711,-0.04517416727790491,0.9040873629008519
+Nauwkeurigheid,Overtuigingskracht,Persoonlijke gerichtheid,Beïnvloedend vermogen,0.11649538885711981,-0.3631374735555367,0.4796328624126565,0.20610818403729425
+Nauwkeurigheid,Plannen en organiseren,Persoonlijke gerichtheid,Organisatie vermogen,0.8516969919037284,0.7652563779392385,0.08644061396448988,0.8176959765417213
+Nauwkeurigheid,Relatiebeheer,Persoonlijke gerichtheid,Relationeel vermogen,0.36963748773997546,0.41824585461254,-0.048608366872564535,0.8968370349326018
+Nauwkeurigheid,Resultaatgerichtheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.6049838029913217,0.001941413344224228,0.6030423896470974,0.11433663177487308
+Nauwkeurigheid,Samenwerking,Persoonlijke gerichtheid,Relationeel vermogen,0.16183430083602524,0.5769224199725094,-0.41508811913648413,0.27245202639018595
+Nauwkeurigheid,Sensitiviteit,Persoonlijke gerichtheid,Relationeel vermogen,0.20747440193718905,0.2798412393790064,-0.07236683744181735,0.846957435918499
+Nauwkeurigheid,Sociabiliteit,Persoonlijke gerichtheid,Relationeel vermogen,0.33365557494176035,0.37848254780374346,-0.044826972861983116,0.904820840332129
+Nauwkeurigheid,Stressbestendigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.4209446914264773,-0.09592636965043935,0.5168710610769166,0.17384949902754432
+Nauwkeurigheid,Voortgangscontrole,Persoonlijke gerichtheid,Organisatie vermogen,0.8230199530275752,0.6507722809448268,0.1722476720827485,0.6463840791713074
+Nauwkeurigheid,Zelfstandigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.35787764007448486,-0.4137816118310525,0.7716592519055374,0.04574411524418753
+Onderhandelen,Ondernemerschap,Beïnvloedend vermogen,Organisatiegerichtheid,0.944024697727723,0.9230184291116444,0.02100626861607857,0.955311670936347
+Onderhandelen,Optreden,Beïnvloedend vermogen,Relationeel vermogen,0.8503613872299162,0.8151434321657371,0.03521795506417902,0.9251520780721891
+Onderhandelen,Organisatiesensitiviteit,Beïnvloedend vermogen,Organisatiegerichtheid,0.3811121140223215,0.30505942650107754,0.07605268752124394,0.8392708584123225
+Onderhandelen,Overtuigingskracht,Beïnvloedend vermogen,Beïnvloedend vermogen,0.8175883532310372,0.8840968202051304,-0.06650846697409318,0.8592057116158549
+Onderhandelen,Plannen en organiseren,Beïnvloedend vermogen,Organisatie vermogen,0.8490669447202147,0.43016105762996576,0.41890588709024895,0.26814449334265666
+Onderhandelen,Relatiebeheer,Beïnvloedend vermogen,Relationeel vermogen,0.8134773193630415,0.6447500273032154,0.16872729205982606,0.6531121518773331
+Onderhandelen,Resultaatgerichtheid,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.8128498536984127,0.8769350098863885,-0.06408515618797583,0.8642827535020752
+Onderhandelen,Samenwerking,Beïnvloedend vermogen,Relationeel vermogen,0.3791352306549123,0.27514306660693777,0.10399216404797451,0.7815768516576878
+Onderhandelen,Sensitiviteit,Beïnvloedend vermogen,Relationeel vermogen,0.521904588429605,0.3999734078478379,0.12193118058176705,0.7451627329266675
+Onderhandelen,Sociabiliteit,Beïnvloedend vermogen,Relationeel vermogen,0.7206053490161882,0.5852567980430168,0.13534855097317144,0.718305564736959
+Onderhandelen,Stressbestendigheid,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.8048412398248821,0.5398329987957331,0.265008241029149,0.4812070841619891
+Onderhandelen,Voortgangscontrole,Beïnvloedend vermogen,Organisatie vermogen,0.8585069549620202,0.6053975154191248,0.25310943954289544,0.5009766101648312
+Onderhandelen,Zelfstandigheid,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.45329864509050777,0.548592272398133,-0.09529362730762525,0.7994214713919163
+Ondernemerschap,Optreden,Organisatiegerichtheid,Relationeel vermogen,0.9130102695038143,0.9202401915080592,-0.007229922004244993,0.9846117906219194
+Ondernemerschap,Organisatiesensitiviteit,Organisatiegerichtheid,Organisatiegerichtheid,0.45227804609376276,0.20565754984271306,0.2466204962510497,0.5119445340478377
+Ondernemerschap,Overtuigingskracht,Organisatiegerichtheid,Beïnvloedend vermogen,0.8445046467659486,0.9163212290897083,-0.07181658232375965,0.8481062793327285
+Ondernemerschap,Plannen en organiseren,Organisatiegerichtheid,Organisatie vermogen,0.7643165645817053,0.5271809469944551,0.2371356175872502,0.5282089619324455
+Ondernemerschap,Relatiebeheer,Organisatiegerichtheid,Relationeel vermogen,0.8880688524513266,0.6340967844121691,0.2539720680391575,0.4995284072151378
+Ondernemerschap,Resultaatgerichtheid,Organisatiegerichtheid,Persoonlijke gerichtheid,0.8430317628655608,0.9635693237681552,-0.12053756090259438,0.7479716269310015
+Ondernemerschap,Samenwerking,Organisatiegerichtheid,Relationeel vermogen,0.528009890487412,0.159810442557702,0.36819944792971,0.32940554344572615
+Ondernemerschap,Sensitiviteit,Organisatiegerichtheid,Relationeel vermogen,0.6348426740496007,0.259357872407553,0.3754848016420477,0.3200616111543968
+Ondernemerschap,Sociabiliteit,Organisatiegerichtheid,Relationeel vermogen,0.8287170917757718,0.46932637240720454,0.35939071936856726,0.3409475637670858
+Ondernemerschap,Stressbestendigheid,Organisatiegerichtheid,Persoonlijke gerichtheid,0.7985414209794259,0.36776294054821174,0.4307784804312142,0.25506185530170966
+Ondernemerschap,Voortgangscontrole,Organisatiegerichtheid,Organisatie vermogen,0.806656362180083,0.6728567526290169,0.13379960955106607,0.7213882992406719
+Ondernemerschap,Zelfstandigheid,Organisatiegerichtheid,Persoonlijke gerichtheid,0.25385127148622044,0.47432753160796454,-0.2204762601217441,0.557428106927067
+Optreden,Organisatiesensitiviteit,Relationeel vermogen,Organisatiegerichtheid,0.46199644464535916,0.11273760937228047,0.34925883527307866,0.3545540122668027
+Optreden,Overtuigingskracht,Relationeel vermogen,Beïnvloedend vermogen,0.8878197690509544,0.8642448233237943,0.023574945727160124,0.949854229014166
+Optreden,Plannen en organiseren,Relationeel vermogen,Organisatie vermogen,0.6366253283908381,0.5369821677421991,0.09964316064863898,0.7904842746561516
+Optreden,Relatiebeheer,Relationeel vermogen,Relationeel vermogen,0.8819176581172601,0.7497979971588027,0.1321196609584574,0.7247371186299842
+Optreden,Resultaatgerichtheid,Relationeel vermogen,Persoonlijke gerichtheid,0.6569719134746056,0.9285095636120125,-0.27153765013740694,0.47054987802153825
+Optreden,Samenwerking,Relationeel vermogen,Relationeel vermogen,0.6178496220247424,0.15967073506383256,0.4581788869609098,0.22665306977405963
+Optreden,Sensitiviteit,Relationeel vermogen,Relationeel vermogen,0.6695371770804059,0.16317056175429404,0.5063666153261119,0.18252352097329605
+Optreden,Sociabiliteit,Relationeel vermogen,Relationeel vermogen,0.8711861978953396,0.43786452442703994,0.43332167346829964,0.25232074998288656
+Optreden,Stressbestendigheid,Relationeel vermogen,Persoonlijke gerichtheid,0.7763995913332346,0.10144763710017062,0.674951954233064,0.07853040885638429
+Optreden,Voortgangscontrole,Relationeel vermogen,Organisatie vermogen,0.6863961932929363,0.6814937870272655,0.0049024062656708445,0.9895653239978577
+Optreden,Zelfstandigheid,Relationeel vermogen,Persoonlijke gerichtheid,0.26682858202857507,0.2585251899034417,0.008303392125133369,0.9823273754978541
+Organisatiesensitiviteit,Overtuigingskracht,Organisatiegerichtheid,Beïnvloedend vermogen,0.19394403321213946,0.060021745587521845,0.1339222876246176,0.7211439695646606
+Organisatiesensitiviteit,Plannen en organiseren,Organisatiegerichtheid,Organisatie vermogen,0.5224632727144464,0.5312731084873005,-0.008809835772854102,0.9812496814166873
+Organisatiesensitiviteit,Relatiebeheer,Organisatiegerichtheid,Relationeel vermogen,0.5577033573175764,0.6086895089116284,-0.050986151594052065,0.891822252692587
+Organisatiesensitiviteit,Resultaatgerichtheid,Organisatiegerichtheid,Persoonlijke gerichtheid,0.47325024616061456,0.19249977728283038,0.2807504688777842,0.4557468997903116
+Organisatiesensitiviteit,Samenwerking,Organisatiegerichtheid,Relationeel vermogen,0.8768887089955293,0.8320722492206564,0.04481645977487292,0.904843051440297
+Organisatiesensitiviteit,Sensitiviteit,Organisatiegerichtheid,Relationeel vermogen,0.9331681535023715,0.9412432807203132,-0.00807512721794168,0.9828131262452975
+Organisatiesensitiviteit,Sociabiliteit,Organisatiegerichtheid,Relationeel vermogen,0.7409992387446953,0.8076557057008293,-0.06665646695613403,0.8588958337325121
+Organisatiesensitiviteit,Stressbestendigheid,Organisatiegerichtheid,Persoonlijke gerichtheid,0.6669157650663595,0.3509736112425067,0.3159421538238528,0.4017817502848633
+Organisatiesensitiviteit,Voortgangscontrole,Organisatiegerichtheid,Organisatie vermogen,0.44467498372015957,0.4630148358713494,-0.018339852151189828,0.9609790835595604
+Organisatiesensitiviteit,Zelfstandigheid,Organisatiegerichtheid,Persoonlijke gerichtheid,-0.4217300583785662,-0.27336545206980933,-0.14836460630875686,0.6925942175340807
+Overtuigingskracht,Plannen en organiseren,Beïnvloedend vermogen,Organisatie vermogen,0.47055746593012593,0.22907470149958462,0.2414827644305413,0.5207205832960109
+Overtuigingskracht,Relatiebeheer,Beïnvloedend vermogen,Relationeel vermogen,0.6793505394924721,0.48793442843383095,0.1914161110586412,0.6102894599085995
+Overtuigingskracht,Resultaatgerichtheid,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.5388506659753199,0.9028064259329993,-0.36395575995767937,0.3349326323947559
+Overtuigingskracht,Samenwerking,Beïnvloedend vermogen,Relationeel vermogen,0.3262812982797198,-0.05144196634718597,0.37772326462690575,0.3172273423623033
+Overtuigingskracht,Sensitiviteit,Beïnvloedend vermogen,Relationeel vermogen,0.4276246841994074,0.13711531066752364,0.2905093735318838,0.44036902252520216
+Overtuigingskracht,Sociabiliteit,Beïnvloedend vermogen,Relationeel vermogen,0.647110040109825,0.3193927752296343,0.3277172648801907,0.38465617698477717
+Overtuigingskracht,Stressbestendigheid,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.6830351408179057,0.27453134877120383,0.4085037920467019,0.27999679011512435
+Overtuigingskracht,Voortgangscontrole,Beïnvloedend vermogen,Organisatie vermogen,0.5477046426872907,0.38761981519030325,0.16008482749698744,0.6697539642108103
+Overtuigingskracht,Zelfstandigheid,Beïnvloedend vermogen,Persoonlijke gerichtheid,0.4882626881795767,0.48746408237734,0.0007986058022366738,0.9983001338675594
+Plannen en organiseren,Relatiebeheer,Organisatie vermogen,Relationeel vermogen,0.7203713491300326,0.748221183014621,-0.027849833884588393,0.9407773267645843
+Plannen en organiseren,Resultaatgerichtheid,Organisatie vermogen,Persoonlijke gerichtheid,0.803098642951551,0.5560069471452309,0.24709169580632007,0.5111437049713463
+Plannen en organiseren,Samenwerking,Organisatie vermogen,Relationeel vermogen,0.4490095366839763,0.6109524120785728,-0.16194287539459645,0.6661614408593164
+Plannen en organiseren,Sensitiviteit,Organisatie vermogen,Relationeel vermogen,0.5494542257933628,0.4939808997568929,0.05547332603646987,0.882371203940246
+Plannen en organiseren,Sociabiliteit,Organisatie vermogen,Relationeel vermogen,0.6920374175749769,0.6348846248487199,0.05715279272625706,0.8788382677564619
+Plannen en organiseren,Stressbestendigheid,Organisatie vermogen,Persoonlijke gerichtheid,0.6839297048215797,0.041745402034145625,0.642184302787434,0.09345900007056618
+Plannen en organiseren,Voortgangscontrole,Organisatie vermogen,Organisatie vermogen,0.9600907147717267,0.9307138352243414,0.029376879547385326,0.9375368219394271
+Plannen en organiseren,Zelfstandigheid,Organisatie vermogen,Persoonlijke gerichtheid,0.2887439906297977,-0.19124643306025804,0.47999042369005573,0.2057781440962072
+Relatiebeheer,Resultaatgerichtheid,Relationeel vermogen,Persoonlijke gerichtheid,0.6901758723602688,0.6683410424177111,0.0218348299425577,0.9535510476189202
+Relatiebeheer,Samenwerking,Relationeel vermogen,Relationeel vermogen,0.646975812123644,0.7267620649036115,-0.07978625277996754,0.8315010721562617
+Relatiebeheer,Sensitiviteit,Relationeel vermogen,Relationeel vermogen,0.700420897614951,0.6698386283070874,0.030582269307863563,0.9349796551652672
+Relatiebeheer,Sociabiliteit,Relationeel vermogen,Relationeel vermogen,0.8936657003000785,0.8486741146683806,0.04499158563169792,0.9044730713824571
+Relatiebeheer,Stressbestendigheid,Relationeel vermogen,Persoonlijke gerichtheid,0.6681369436149666,0.16441574802360784,0.5037211955913588,0.18475997207219552
+Relatiebeheer,Voortgangscontrole,Relationeel vermogen,Organisatie vermogen,0.7287139202102163,0.7813559180201008,-0.052641997809884544,0.8883327039477749
+Relatiebeheer,Zelfstandigheid,Relationeel vermogen,Persoonlijke gerichtheid,0.0296965035075212,-0.1729981128710024,0.2026946163785236,0.5894977349759642
+Resultaatgerichtheid,Samenwerking,Persoonlijke gerichtheid,Relationeel vermogen,0.47948013037690745,0.11869171426263436,0.3607884161142731,0.33909831797837686
+Resultaatgerichtheid,Sensitiviteit,Persoonlijke gerichtheid,Relationeel vermogen,0.5641434253648019,0.2473473566863108,0.3167960686784911,0.4005239682547068
+Resultaatgerichtheid,Sociabiliteit,Persoonlijke gerichtheid,Relationeel vermogen,0.6933021555391018,0.43193402523564534,0.26136813030345646,0.48720753662859817
+Resultaatgerichtheid,Stressbestendigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.6825858030314333,0.21467012214309608,0.46791568088833724,0.21714687244289377
+Resultaatgerichtheid,Voortgangscontrole,Persoonlijke gerichtheid,Organisatie vermogen,0.8075892389174869,0.6571419761989808,0.15044726271850606,0.6885133940785009
+Resultaatgerichtheid,Zelfstandigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.0525044494993836,0.3132783158483884,-0.2607738663490048,0.4881911303138078
+Samenwerking,Sensitiviteit,Relationeel vermogen,Relationeel vermogen,0.907634121351333,0.8920734849768264,0.015560636374506664,0.9668884375873665
+Samenwerking,Sociabiliteit,Relationeel vermogen,Relationeel vermogen,0.8443528968626727,0.9240844162492933,-0.0797315193866206,0.8316148537106247
+Samenwerking,Stressbestendigheid,Relationeel vermogen,Persoonlijke gerichtheid,0.6843238480908292,0.43215034045791556,0.2521735076329137,0.502550502017109
+Samenwerking,Voortgangscontrole,Relationeel vermogen,Organisatie vermogen,0.423417004566798,0.5798229368905129,-0.1564059323237149,0.6768903488691387
+Samenwerking,Zelfstandigheid,Relationeel vermogen,Persoonlijke gerichtheid,-0.42167678476653253,-0.24719329751681587,-0.17448348724971666,0.6421266240908614
+Sensitiviteit,Sociabiliteit,Relationeel vermogen,Relationeel vermogen,0.8907783139034398,0.9153771394392295,-0.024598825535789737,0.9476795515551915
+Sensitiviteit,Stressbestendigheid,Relationeel vermogen,Persoonlijke gerichtheid,0.747660244244534,0.4963732622600134,0.25128698198452065,0.5040438259777136
+Sensitiviteit,Voortgangscontrole,Relationeel vermogen,Organisatie vermogen,0.5017330545962593,0.4289815813880821,0.07275147320817715,0.8461545804044177
+Sensitiviteit,Zelfstandigheid,Relationeel vermogen,Persoonlijke gerichtheid,-0.3200770482820693,-0.2119128289824474,-0.10816421929962189,0.7730598663116977
+Sociabiliteit,Stressbestendigheid,Relationeel vermogen,Persoonlijke gerichtheid,0.754048196334454,0.5227310750172678,0.23131712131718618,0.5383208684842953
+Sociabiliteit,Voortgangscontrole,Relationeel vermogen,Organisatie vermogen,0.699289397359708,0.6441614996231427,0.055127897736565235,0.8830981546755217
+Sociabiliteit,Zelfstandigheid,Relationeel vermogen,Persoonlijke gerichtheid,-0.085629825043361,-0.06750955581881839,-0.018120269224542615,0.9614458984053551
+Stressbestendigheid,Voortgangscontrole,Persoonlijke gerichtheid,Organisatie vermogen,0.6710548841468654,0.21670533128803104,0.4543495528588344,0.23047552450773767
+Stressbestendigheid,Zelfstandigheid,Persoonlijke gerichtheid,Persoonlijke gerichtheid,0.20430774233025742,0.6685008135691486,-0.4641930712388912,0.22074535349263447
+Voortgangscontrole,Zelfstandigheid,Organisatie vermogen,Persoonlijke gerichtheid,0.3640025839492739,0.09585461567328393,0.26814796827598997,0.47606540626741145
