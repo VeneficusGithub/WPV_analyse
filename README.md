@@ -10,7 +10,7 @@ Provide instructions on how to install your project and any dependencies.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your_username/your_project.git
+git clone https://github.com/VeneficusGithub/WPV_analyse.git
 
 # Install dependencies
 pip install -r requirements.txt
